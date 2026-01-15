@@ -1,0 +1,744 @@
+Lenny (00:00:04):
+If your product isn't doing well, there's a chance that it may not be the product that's the problem, it may be your positioning. And there's no one I've learned more from about how to very practically and tactically think about your positioning than from April Dunford.
+
+Lenny (00:00:17):
+April is the best selling author of the book, Obviously Awesome, which many consider an industry bible on product positioning. She's also led teams at seven successful B2B startups, worked with over 200 companies, helping them nail their positioning, and has almost certainly done more positioning work than any human alive.
+
+Lenny (00:00:34):
+Also, April's guest post in my newsletter, A Quickstart Guide to Positioning is still one of the most popular posts of all time in my newsletter and one I share often with founders. I had a total blast speaking with April, and I hope you learn as much from this conversation as I did.
+
+Lenny (00:00:52):
+This episode is brought to you by Amplitude, the number one product analytics solution. Amplitude helps product teams, growth teams, marketing and data teams build winning products, faster and turn products into revenue.
+
+Lenny (00:01:05):
+Amplitude has everything you need, including an integrated CDP, self-service analytics and even an experimentation platform to help you better understand your users, drive conversions and increase engagement, growth, and revenue.
+
+Lenny (00:01:18):
+Amplitude is built for teams that want to learn as fast as they ship and ship as fast as they learn, ditch your vanity metrics, trust your data, work smarter and grow your business. With over 1,700 customers like Atlassian, Instacart and HBO, Amplitude is helping companies build better products. Try Amplitude for free. Visit amplitude.com to get started.
+
+Lenny (00:01:40):
+This episode is brought to you by Flatfile. Think of the last time you imported a spreadsheet. Did it work the first time? Chances are it did not. You probably got some weird error, had to try a bunch of things like removing the blank title rows above your column headers, or Googling how to save with UTF-8 encoding.
+
+Lenny (00:01:56):
+What even is UTF? Who cares? You're just trying to get your file where it needs to go so you can do your actual job. Your customers run into the same issues when it matters most, right after signing up for your product. Enter Flatfile.
+
+Lenny (00:02:08):
+Flatfile is the data onboarding platform built to take the acute pain out of importing customer data into your product so they can see the magic that you promised them. Flatfile is SOC type 1 and 2 certified, GDPR compliant, and even HIPAA complaint, ensuring your customers, no matter where in the world they're located are sharing their data securely and in compliance every step of the way.
+
+Lenny (00:02:29):
+No more emailing files back and forth, no more help articles that just don't land, just clean data on day one, when it matters most. Get started importing millions of rows of customer data in minutes at flatfile.com/lenny.
+
+Lenny (00:02:50):
+April, thank you so much for being here. You're a legend. I am humbled to chat with you and to learn from you, and honestly I am. And your guest post on-
+
+April Dunford (00:03:00):
+Lenny, you're the legend around here, not me.
+
+Lenny (00:03:02):
+No, no, no. Let's not-
+
+April Dunford (00:03:02):
+You're the guy. You're like Madonna. You're just a one-name guy now. You're Lenny, the Lenny.
+
+Lenny (00:03:09):
+I don't know what to do with that. I'm just going to move on. I appreciate it. Anyway, welcome to the podcast.
+
+April Dunford (00:03:17):
+So good to be here. Thanks for having me.
+
+Lenny (00:03:19):
+Of course. I was also going to say that your guest post on positioning on my newsletter is still in the top 20 most popular all-time posts. I keep coming back to it. People keep telling me how useful it is. I keep sending it to founders. And so I'm just excited to dive a lot deeper on this topic.
+
+April Dunford (00:03:32):
+Cool.
+
+Lenny (00:03:33):
+All right, let's do it. So for listeners who maybe aren't super familiar with your background and how you came to be such an expert on positioning, could you just briefly share your journey to what you do today?
+
+April Dunford (00:03:44):
+Yeah, sure. So my background is I didn't study marketing in school, I studied engineering. Straight out of engineering school, I got a job, a product marketing job at a startup. And I've been doing this a long time, so this was back when startups weren't even cool and we just called them small companies.
+
+April Dunford (00:04:01):
+So I got a job at a little company and then that company, I was assigned to a product that was kind of a loser and we weren't selling very much. We ended up repositioning it and the thing took off, it got hugely successful. That company got acquired, my boss quit and they made me the vice president of marketing. I still have no idea why. And then I decided, well, this is my jam, this is what I do now.
+
+April Dunford (00:04:24):
+And in particular, we had a handful of products there, the positioning also seemed kind of weak. And so I embarked on this journey of, hey, positioning seems to be really important because when we get it wrong, everything sucks, and when we get it right, we all make all kinds of money, so I should figure out how to do this properly.
+
+April Dunford (00:04:43):
+And so I read a bunch of books, took a bunch of courses and what I discovered is that positioning is this foundational marketing concept, but we didn't really have a methodology for doing it. And so from that point forward, I became a repeat vice president of marketing at a series of startups. So I think I did seven and six of those got acquired.
+
+April Dunford (00:05:04):
+So I repositioned a lot of products across that and positioning became my specialty. Basically, if you were looking for a vice president of marketing and I came into the interview, the reason you hired me is because your positioning was crappy and I could talk intelligently about how we were going to fix that.
+
+April Dunford (00:05:21):
+And then about five, six years ago, I decided I wanted to go do something different and so I made the switch to consulting and now that's all I do. So I basically do positioning. Even more specifically though, I really focused on, I only do tech companies. I only do B2B companies, because my background is all really B2B and I don't really get consumer.
+
+April Dunford (00:05:43):
+And mainly I work with startups. For the most part it's what I would call a growth stage startup, post series A, series B, but occasionally I do some really, really big companies that have weird positioning stuff going on, like they've acquired a bunch of things and they're trying to turn it into a business unit or something and there's no story around that. So that's how I got here.
+
+Lenny (00:06:04):
+Awesome. To set a little color, I guess, how many companies have you worked with at this point and helped with positioning?
+
+April Dunford (00:06:10):
+It's around 200-
+
+Lenny (00:06:11):
+Wow.
+
+April Dunford (00:06:11):
+... I think. I think, I suspect that I have done more positioning than anybody on the planet.
+
+Lenny (00:06:18):
+I was just going to say that.
+
+April Dunford (00:06:19):
+That's my suspicion. I certainly have positioned more B2B tech companies than anybody. I don't know how anybody's going to get me on that one.
+
+Lenny (00:06:27):
+I would not be surprised. Okay, so I'm excited to learn a lot from our conversation along those lines. I'm curious, what's the most interesting or unusual company that you've worked with around positioning and what happened there?
+
+April Dunford (00:06:39):
+The fun part about positioning is that when you do this kind of work, you get to dive into a market that maybe you haven't thought very much about. So it's like, I'm going to drop some names, but this week I'm working with Epic Games on a product that they have called Twinmotion, which is absolutely mind-blowing tech. You should look at it.
+
+April Dunford (00:07:01):
+I don't come from that world of doing three dimensional graphic stuff, and so it's fun to just do a big, deep dive on that and look at everything in the space and look at what's possible and what isn't possible there.
+
+April Dunford (00:07:12):
+And so I've done everything from stuff like that to I come from databases. And so I have a lot of companies doing deep data stuff and data analytics stuff, which I find really interesting and cool, but then occasionally you'll get one that makes you think about your life differently.
+
+April Dunford (00:07:28):
+I did one a year or so ago and the company's called Bluelight Analytics. And what they do is technology for helping certain kinds of dentistry instruments work better. And so I didn't really think much about what happens in the dentist office until I went to do this workshop.
+
+April Dunford (00:07:47):
+And then we spent the whole time talking about it's terrifying actually, half the stuff that a dentist does in your mouth is very likely to fail because the equipment is terrible and the way they actually do things like cure fillings is actually really terrible. And so sometimes I learn things in these workshops that I wish I didn't know. I'm a little bit scared going to the dentist now.
+
+Lenny (00:08:07):
+Oh man, sounds like they-
+
+April Dunford (00:08:08):
+Sorry to the Bluelight guys, but yeah.
+
+Lenny (00:08:09):
+I thought Bluelight was going to be like not getting exposed to blue light when you're trying to get asleep.
+
+April Dunford (00:08:14):
+No. No. I wish. That would make me not make me so scared of the dentist.
+
+Lenny (00:08:21):
+Also a problem. How do you know that you have a positioning problem and that you should focus on positioning?
+
+April Dunford (00:08:26):
+So this is a thing that people ask me this a lot. And I think what people want, and I want this too, what I wish we had was a metric that I could say, "Hey, when you start seeing this metric go in this direction, then you know the positioning is bad." But unfortunately, weak positioning gets you all the way across the pipeline.
+
+April Dunford (00:08:47):
+Weak positioning hurts you in the early stages of pipeline in that people don't really get what you are, so they're not responding to your marketing the way they should. And you'll get this sluggishness in the middle of your pipeline, particularly if you have sales people. The light doesn't come on until they've had three calls with the sales rep and then the light comes on.
+
+April Dunford (00:09:06):
+And then sometimes what you'll get is your sales team is actually really good at selling the stuff, but the positioning's wrong, so you close a lot of deals, but then people get using the product and they're like, "Wait a minute, this isn't the thing that I thought it was or it doesn't do what I expected it to do," and then they churn out on you.
+
+April Dunford (00:09:20):
+So all your metrics look bad and you can only tell they look bad by comparing them to your own metrics. And so it's really hard to measure if the positioning isn't working or not.
+
+April Dunford (00:09:31):
+Back when I used to be VP marketing, what I would do to assess this is I'd be the brand new VP of marketing, I'd come on board and I'd say, "Well, I'm just going to go hang out with sales for a bit." And you can really hear it in sales calls, particularly in an initial sales call with a client.
+
+April Dunford (00:09:49):
+And what you'll hear is things like the customer comes on, your sales rep comes on, and your sales rep's doing a great job pitching the product like, "Oh, we got this thing and it does this, that, and the other thing."
+
+April Dunford (00:10:01):
+And they'll get a certain way through the pitch and you can see the customer's just like, "Yeah. Yeah. Yeah. Just back it up and pitch it to me again." That's probably the most common one I get is, "Huh? Could you just say that again? Could you just back up to the beginning and do that thing from the beginning?"
+
+April Dunford (00:10:15):
+So there's this confusion. Sometimes what you'll get is the even worse one is the customer thinks they know exactly what you are, but you ain't that. So you'll get people who say, "Yeah. Yeah. I get it, you're just like Salesforce." And you're like, "Oh actually, no, we're nothing like Salesforce. Sorry. No, that's it. Let me back up and start from the beginning."
+
+April Dunford (00:10:34):
+Or you'll get this and this one is actually terrible where people will say, "Well, I get it. I mean, I totally get it. I totally get what you do. I just don't get why anyone would pay for that. I can do that in a spreadsheet. I don't get it." So they think they get what you do, but they don't really understand the value.
+
+April Dunford (00:10:50):
+And so if you start hearing stuff like that in an initial sales call, those are usually good signs that the positioning is weak.
+
+Lenny (00:10:58):
+That is really helpful. Backing up a little bit, we jumped right in. I'm curious how you even describe positioning, what the heck is positioning? And broadly, just why is it important for people to think about?
+
+April Dunford (00:11:08):
+In my opinion, it's really misunderstood, which is funny because it's not a new concept. We've been talking about positioning since the '80s, but like a lot of things in marketing people have stretched the definition or there's different definitions, even among marketing people. If I had a dozen vice presidents of marketing together in a room and said, "Hey, define positioning," we'd get a dozen different definitions.
+
+April Dunford (00:11:30):
+But I think about it this way, positioning defines how your product is the best in the world, delivering some value that a well-defined set of companies care a lot about. So put another way, it encompasses a lot of things, it defines what are the alternatives to what you do? How are you different? What value can you deliver that no other product on the market can?
+
+April Dunford (00:11:56):
+And oh, by the way, who cares a lot about that value? So who is it that you're trying to target? And then it also encompasses the definition of your market category or what market is it that you intend to win.
+
+Lenny (00:12:08):
+That is such a succinct, simple way of thinking about it. Something that I've been thinking about is this isn't something just founders should care about. PMs on teams that are building a product should think about this, leaders, GMs of business units. This applies across the board, basically to any product, whether it's the entire company or just one feature.
+
+April Dunford (00:12:24):
+Well, this is one of the things that where I think people get into weak positioning. One of the things that happens in companies, and I see this a lot where the founder has an idea what the positioning is, but then you go to the marketing department and it's a little bit different, not a lot different, but a little bit different.
+
+April Dunford (00:12:42):
+And then you sit in on the sales pitch and that's a little bit different again. And then you walk over to the product team and they're thinking about it slightly differently. So I think a lot of weak positioning comes from the fact that we don't have perfect alignment across the team on all these piece parts of positioning.
+
+April Dunford (00:13:00):
+So in the work I do, and even back when I was a VP marketing, if we're going to fix this thing, we can't just have the marketing department or just the product managers sit down and cook up new positioning and then heave it over the wall to everybody else, it actually needs to be a group effort. It's a team sport.
+
+April Dunford (00:13:19):
+So if we're going to do positioning well and then actually have that positioning stick and get adopted the way we want it to across the company, if we're going to do a positioning exercise, ideally we've got marketing, product, sales, customer success, and anybody else we need from the executive team, particularly the CEO, together in a room when we're building it.
+
+April Dunford (00:13:41):
+So that we can all bring our expertise to the table, bring our understanding of what customers do and our product to the table, thrash around on it a little bit until we get agreement on it. And then now that we've all got agreement and alignment around it, then we can all go execute on it and we're all singing the same song.
+
+Lenny (00:13:59):
+That's so interesting. How often do you find that the problem is misalignment within the company versus just they don't actually have the right positioning and that's the problem?
+
+April Dunford (00:14:07):
+Well, a lot of times it's misalignment. I would say the majority of the time it's misalignment, because what it is a piece of the company has it right, but the other pieces don't. So I get one of two things are happening.
+
+April Dunford (00:14:21):
+So sometimes what I'll get is the founder comes to me and the founder says, "I know exactly how to tell this story. You put me in front of a customer, I crush it every time. I know how to position this thing. I know how to do whatever. But we've gotten big now and I got a brand new VP marketing and I got a brand new VP sales and I just hired somebody to do product and they don't understand it the way I understand it."
+
+April Dunford (00:14:43):
+"And when I listen in on a sales call, what I hear is all wrong, that it's not it. When I look at our marketing, what I see, that's not it. And I've tried to get everybody in alignment and I can't. And so I need you to come in here and facilitate a thing where we can all get in alignment." That happens a lot.
+
+April Dunford (00:14:58):
+The other one I get is kind of the opposite of that, where you've got a founder that used to run sales, used to do all the deals, used to do everything, had their arms around this market very tight at one point and then the company's grown, often very quickly. They've hired a bunch of very senior people to run pieces, but at the same time, the market itself has shifted a lot.
+
+April Dunford (00:15:20):
+And so I'll get approached then often by the head of product or the head of marketing that comes in and says, "I don't think we have this right. I think we're actually positioned for what the market used to be. And I'm having a hard time getting the founder, having their heads around it and everybody else on the team, because we're all coming at it with different information."
+
+April Dunford (00:15:41):
+And so sales sees what's happening in sales. Marketing sees what's happening in marketing. The founder's getting pulled into certain deals, but not all the deals. Product's seeing what's happening in the thing. And so again, there's pieces of it there, but we're not all in alignment and agreement. And so we got to get everybody together and then work through it.
+
+Lenny (00:15:59):
+What does it look like when you've nailed it, when you are maybe in a good place with positioning? And also just along those-
+
+April Dunford (00:16:05):
+Yeah-
+
+Lenny (00:16:05):
+Go for it. Go for it.
+
+April Dunford (00:16:06):
+... it's interesting because when it's working really well, it feels like magic and really great positioning feels obvious. You pitch it to people and they're like, "Well, of course that's it. What else could it be?"
+
+April Dunford (00:16:22):
+One of my favorite companies, this is a company I worked with a little bit a couple of years ago is Postman. You know these folks?
+
+Lenny (00:16:28):
+Mm-hmm.
+
+April Dunford (00:16:28):
+So they basically have an API platform, a platform for building and using APIs. And just how I described that right there is so simple, it's so simple, of course that's what it is. But it was not simple getting there and that's not the way they were always describing themselves. And if you run that back three years ago, that's not at all what you would have gotten as the pitch for Postman.
+
+April Dunford (00:16:51):
+But really, really great positioning just feels like it's so clear, it's so simple, of course that's what it is, of course, and of course we need one of those. If we're serious about APIs, why would we not have a platform for building and managing APIs? Of course we need that. And so it's hard to judge sometimes from the outside.
+
+April Dunford (00:17:11):
+The other thing is that positioning is somewhat like messaging in some ways in that it's not a static thing, it changes over time. Your product itself doesn't stay the same, the market doesn't stay the same, and so things will shift over time. And so you can have good positioning that suddenly becomes bad positioning and it's not great positioning anymore, or good positioning that goes sideways or whatever, then you got to come back.
+
+April Dunford (00:17:36):
+And so usually I think there's value in checking in on your positioning because it's really hard. Again, I don't have a measurement to say yes or no, the positioning's working. And so I think there's no harm in checking in on it, going through a process to walk through it and just check in and see, could it be better? Maybe we could tighten this up. Maybe this could be a lot better than it is right now, but we've never sat down and actually deliberately looked at it.
+
+Lenny (00:18:03):
+Just to make it even a little more concrete, what are just some examples of good positioning statements or just the positioned companies?
+
+April Dunford (00:18:11):
+So one thing is a lot of times people will send me a link to their homepage and they'll say, "What do you think? Is this positioning good or not?" And the problem with B2B tech companies is, well, unless I'm your buyer, I'm not the right person to ask.
+
+April Dunford (00:18:26):
+So you can have companies, people will say, "Well, I looked at the website and who knows what that is?" And it's like, well, it doesn't matter if I can understand what it is or not. If I'm selling a deeply technical thing to deeply technical buyers, it's okay if your grandmother doesn't understand what it is when they get there. What matters is, does it resonate for your buyers? And when they land there, do they go, "Oh yeah, I get what this is, and that seems like a thing I should have."
+
+April Dunford (00:18:53):
+And so a lot of the companies that I really love the positioning of, you would go and look at it and say, "I don't know, man, I'm not even sure I really understand what that is." If you didn't have anything to do with APIs and you didn't know what the fuck an API was, whatever, you might land on Postman's page and go, "I honestly don't get that." But that's okay, you're not a person building the APIs, so you don't have to understand it. That's all right.
+
+April Dunford (00:19:18):
+Particularly, I've worked a lot with companies doing deep AI stuff, deep, deep digital analytics and deep data stuff and you can't tell from looking at the website, whether it's working or not. The true test of whether the positioning's working or not is, if I'm sitting across from a qualified prospect and I tell the story, does the prospect get excited and want to buy something? That's the real test of it.
+
+April Dunford (00:19:41):
+Any other test I think is we're bringing our own baggage into it and saying ... I pick on these guys a little bit, but in Canada, there's a big startup conference, it's great, it's called Startupfest. It's in Montreal.
+
+Lenny (00:19:51):
+I've been to that.
+
+April Dunford (00:19:52):
+But every year they have this thing and it's called Pitch the Grannies. And you go in and you're a startup and you pitch the grandmothers and the grandmothers decide whether or not your pitch was any good. And this infuriates me because I'm like, "This is a terrible judge of pitching." Maybe if we're doing the VC pitch, in which case you're saying the VCs and the grandmothers are exactly the same, that's a little insulting.
+
+April Dunford (00:20:16):
+But certainly, if the pitch is a customer facing pitch, I don't care whether the grandmother understands it or not. Unless I happen to be building the thing for grandmas, I really don't think that matters at all, so yeah.
+
+Lenny (00:20:28):
+Hopefully no B2B startups are pitching to grandmas, don't think that would go well.
+
+April Dunford (00:20:32):
+Yeah.
+
+Lenny (00:20:32):
+Okay, so say that you're a PM or a founder that's ready to start figuring out their positioning for their product, what's the first thing that you do?
+
+April Dunford (00:20:41):
+So I've done a lot of thinking about how should we actually do positioning. And so a critical piece of positioning is your differentiated value, what's the value that you can deliver that no other company can deliver?
+
+April Dunford (00:20:56):
+And so how companies get this wrong a lot is they'll say, "Okay, well, we want to look at our positioning, so let's get everybody together." Or sometimes they'll say, "Let's just sit in the marketing department and think about the value."
+
+April Dunford (00:21:07):
+But sometimes folks will get a team together, they get a team together and then they'll say, "Okay, so why does everybody love our stuff?" And this is a terrible way to go about it because what you'll get is just a bunch of opinions and we don't really know how to measure is that good or not.
+
+April Dunford (00:21:20):
+So I actually think the first step in a good positioning exercise is to really understand, what do we have to position against? So put another way, it's like saying, what do I have to beat in order to win a deal? So in positioning work we call this competitive alternatives.
+
+April Dunford (00:21:36):
+Now how people mess up this first step is I say competitive alternatives and they think competition, so things that look exactly like me. But in B2B, we have two sets of competitors. We have status quo, which is whatever the company is doing to attempt to solve the problem right now, even if it's crappy and not great.
+
+April Dunford (00:21:56):
+And then there's if the company does decide they're going to buy something different, they usually make a short list, so it's whoever else lands on the short list. So I need to be able to put a stake in the ground and say, "I got to beat all that in order to win a deal."
+
+April Dunford (00:22:10):
+Now, most folks will discount the status quo, but they shouldn't because in B2B we lose about 40% of our deals to quote-unquote, "no decision," which actually means we lost to the spreadsheet, we lost to pen and paper, we lost to interns. And if we're not positioning well against that, we're never going to get the customer to come off of that.
+
+April Dunford (00:22:31):
+So I got to win against status quo, but I also have to win, if it's ... Most of the time, if it's B2B, you don't just buy the first thing you come across, you make a short list of alternatives and I got to win against those as well.
+
+April Dunford (00:22:44):
+So step number one, what am I positioning against? Once I have that stake in the ground, then I can start thinking about what makes us different. So the easiest way to do this is okay, this is what I have to position against, what have I got capabilities wise that the alternatives don't have?
+
+April Dunford (00:23:01):
+So feature, function, or even capabilities of the company, which could be pricing or professional services or other things that you've got, but also capabilities of the product. What have I got that the alternatives don't have? And I can make a giant list of these things.
+
+April Dunford (00:23:15):
+And then I can translate that stuff into value by going down the list and saying, "Okay, we have this great feature, so what? Why does a customer care about it? What is the value that feature enables?" And when I do that mapping over to value, what generally happens is I end up with two or three value buckets or value themes.
+
+April Dunford (00:23:36):
+And quite often those value buckets or value themes are different than what I would've gotten, if I got all the smart people in my company together and said, "Hey, why does everybody love our stuff?" When I do it this way, I'm ensured that those value themes are differentiated and not just things that are generally valuable, but any alternative could get it done, so why are we even talking about it? So in my mind, that's how we do it.
+
+April Dunford (00:24:00):
+Once I've got differentiated value, then I can start thinking about, well, look, I could sell this product to any company that has this problem, but not everybody cares about this value the same way. And so what are the characteristics of a target account that make them really, really care a lot about that value? If I do some deep thinking about that, that's going to be my definition of a really best fit customer.
+
+April Dunford (00:24:22):
+And then the last piece of positioning of course, is market category. And so again, a lot of people will just start with market category and then try to back up, which I think is crazy, because then we don't have any way to judge the goodness of a market category.
+
+April Dunford (00:24:35):
+But if I've got, look, this is the value only I can deliver, these are the kind of people that really care a lot about that value, if I start thinking about positioning as the context I position my product in, then the best market category is the context I position my product in such that this value is obvious to these people.
+
+April Dunford (00:24:57):
+This is my long-winded way of doing it, but this is the only way I know how to get positioning done.
+
+Lenny (00:25:02):
+So you just basically went through the steps and the bullet points of things you've got to figure out your position. Could you just briefly summarize that just for people to have that in their brain?
+
+April Dunford (00:25:10):
+Yeah. So it works like this. I start with competitive alternatives. What do I got to beat in order to win a deal, status quo, things on the short list. Once I've got that, then I can make a list of differentiated capabilities, what capabilities do I have that the alternatives do not? I can then translate those capabilities into value, the so what for the customer. And while I'm doing that, these things will theme out. So I'll end up with two, three value themes, value buckets.
+
+April Dunford (00:25:37):
+Once I have that, then I can ask myself the question, well, okay, what are the characteristics of a target account that make them care a lot about that value? So that next piece is best fit customers or target customers, who am I going after for this thing? And then the last bit's market category, so what's the context I position this thing in that makes my value obvious to the people I'm going after?
+
+Lenny (00:25:59):
+Super helpful. What if we pick a company either that you worked with or that's just out there and think through what they would do for each of these steps to make this super real?
+
+April Dunford (00:26:09):
+Sure. I'm going to do Help Scout because I like these guys.
+
+Lenny (00:26:11):
+Sounds good.
+
+April Dunford (00:26:12):
+And I was just talking to the CEO not too long ago. So Help Scout's a good example in that they're a startup. I would call them a growth stage startup. They're not super big, but they're not teeny-weeny either. And they're in what would appear to be a terrible market, which is they sell software for customer success. So their competitor's like Zendesk. There's actually a million companies in this space, but the gorilla in the market is Zendesk.
+
+April Dunford (00:26:39):
+And so if I put the stake in the ground and say, "Well, what do I got to replace?" Well, their customer's a lot of small, medium businesses, a lot of direct to consumer E-commerce businesses. And so they obviously have to beat Zendesk and the other folks that are out there, but sometimes they're replacing just email or even a rudimentary shared inbox. That's who they got to beat.
+
+April Dunford (00:27:04):
+And so when you look through what Help Scout has that's differentiating, they've got a whole bunch of features that are really around delivering really amazing service to the customer. So they do a shared inbox. They were the first ones to do a proper services-oriented shared inbox to make sure that nobody gets missed and the right people get assigned to the right thing and you don't get conflicts.
+
+April Dunford (00:27:27):
+But they do a lot of other things like their whole philosophy about how they treat a customer in the service process is really different from Zendesk. So you get assigned a ticket number, you get assigned a person and things like that. And so they do all the neat, integrated things like they'll do a chat bot thing, but it only appears when there's an actual person to chat with you. They don't try to pretend they're a machine, things like that. So they want to guarantee a really high level of service.
+
+April Dunford (00:27:52):
+So when you map that to value, the value is one, I'm delivering this extra amazing service for customers. I'm not trying to push customers to a low cost channel. I'm treating them like a person. So their value is really around delivering amazing customer service that's going to deepen your relationship with the customer. That's the value.
+
+April Dunford (00:28:15):
+And then you say, "Well, who cares a lot about that?" Well, not everybody. So there are businesses out there, I would argue maybe your phone company doesn't really care. They have a giant call center and all they care about is reducing the cost in their call center and driving you to low cost channels.
+
+April Dunford (00:28:33):
+They don't actually see customer service as a way to build a relationship with you versus a lot of direct to consumer brands or E-commerce brands. This is almost the only way that they can interact with their customer. So they actually see customer service as a way to really drive growth through customer loyalty. And so those are the kind of companies that are a really good fit for Help Scout.
+
+April Dunford (00:28:57):
+So I go through that process, that's my positioning. Then the next thing you got to do is okay, now that I understand all that, how do I weave a story around that? So how do I tell the story about that, if a customer comes to me? And so what we want to do with our positioning is turn it into a sales narrative that clicks with the kind of customers we know we can sell to.
+
+April Dunford (00:29:19):
+So the way Help Scout delivers the story, if you come in, you're a qualified prospect, it starts with this idea that customer success is a growth driver. Modern E-commerce companies see customer success as a way to deepen customer relationships, increase repeat buying, show it as a growth driver. And they have a bunch of great stats that prove that this is true.
+
+April Dunford (00:29:40):
+And then they go look at all your other alternatives. All your other alternatives treat your people like a number. They give them a number. They try to drive them to low cost channels. They try to do these things. They are not treating this like a growth driver, they're treating it like a cost center.
+
+April Dunford (00:29:57):
+And so being able to tell that story that takes your differentiated value and puts it into context is the way all this stuff comes together and the rubber meets the road. So I don't know if that's a good example.
+
+Lenny (00:30:07):
+Oh, that's an amazing example. That makes it so real. Is the output of this process a doc with these bullet points, plus this story that you train sales on? Or how does that look?
+
+April Dunford (00:30:18):
+Yeah. So we do two things in the workshops that I do. So first we get the gang together. So I want representation from sales, marketing, product, customer success, CEO, everybody in the room together. And then we're going to work through the five piece parts.
+
+April Dunford (00:30:33):
+So once we've got, here's what we compete with, here's how we're different, this is the value we can deliver no one else can, these are the kind of people that really love our stuff, so here's who we're going after, this is the market we're going to win, then we can document that in a document.
+
+April Dunford (00:30:46):
+And for the marketing people, that's a good starting place to then go and build messaging because we've got an idea what our value props are. But if we end there and we just stop there, then what usually happens is the rest of the team goes back to normal and they go, "Yeah, we did this thing." And conceptually they get it, but they don't know how to tell a story. It's super important in sales because if sales can't tell the story, they can't pitch it, if they can't pitch it, they're going to make shit up.
+
+April Dunford (00:31:12):
+And so what we want to do then is, okay, we've got this positioning, now let's put it together into a sales narrative that we can then take and test with qualified prospects and make sure it works, but we've also got something that the sales team can pitch and oh, by the way, everybody else knows how to tell the story too. So product knows how to tell the story, customer success knows how to tell the story, CEO knows how to tell the story.
+
+April Dunford (00:31:35):
+So the last thing we do is we map this positioning to a sales narrative. So what we do in the workshop is we storyboard it out. And then after the workshop is done, the team's going, usually it's marketing and sales together, they take that storyboard and then turn it into an actual pitch, which is like a deck, a demo, a script. And then they can use that to test the positioning as well.
+
+Lenny (00:31:57):
+This episode is brought to you by Productboard. Product leaders trust Productboard to help their teams build product that matter. From startups to industry titans, over 6,000 companies rely on Productboard to get the right products to market faster, including companies like Zoom, Volkswagen, UiPath, and Vanguard.
+
+Lenny (00:32:14):
+Productboard can help you create a scalable, transparent and standardized process so your PMs understand what their customers really need and then prioritize the right features to build next.
+
+Lenny (00:32:25):
+Stakeholders feel the love too with an easy to view roadmap that automatically updates so everyone knows what you're building and why, make data driven product decisions that result in higher revenue and user adoption, and empower your product teams to create delightful customer experiences. Visit productboard.com to learn more.
+
+Lenny (00:32:44):
+Got it. So the output ends up being an actual pitch or a story they tell on sales calls, forms the way they marketing position or talks about the company. There's two questions I want to ask. I want to make sure I don't forget.
+
+Lenny (00:32:55):
+One is about messaging versus positioning. But maybe before that, it's interesting that positioning starts with focusing on your differentiator. Is that essential for a company to always figure out a differentiator and be different? Or are there examples where maybe you don't need to focus on that?
+
+April Dunford (00:33:08):
+Well, what you want to do is you want to take a customer's viewpoint on this, right? So let's think about how customers buy. We don't talk about this a lot, but let's think about how customers buy. Typical B2B buying process, this is what it looks like.
+
+April Dunford (00:33:22):
+Somebody, VP sales wakes up in the morning and says, "You know what sucks? The way we track our pipeline sucks. It's stupid. I can't deal with this anymore. We need to get a tool in here. We should have a CRM, man." And they go to the office and they don't actually go look for the new tool. They find some sucker in the office like John, you, get out there, manager of sales ops or whatever, find us a CRM.
+
+April Dunford (00:33:45):
+And John's panicked. John's like, "Oh my God, you're kidding me." Maybe John's used some CRMs, but he's not an expert on the CRM market. He doesn't know what's possible and what isn't possible. So John's like, "Oh God, I don't even know." And then he Googles and what does he get? A fire hose of information.
+
+April Dunford (00:34:04):
+He goes on a G2 Crowd and Software Advice and all these places. There's 9,000 companies listed, they're all in the top ranked quadrant. There's like a thousand of them. Some of them are for big companies. Some of them are small companies. I have no idea how to make a short list, freaking out.
+
+April Dunford (00:34:17):
+And so somehow they figure out how to make a short list and that person has got to justify this choice to their boss, so there better be something there. I'm not allowed to just throw the dart at it. I'm not allowed to just go back to my VP and say, "I just like the rep better, man. They're all the same. I picked this one by spinning the wheel." No, you got to go back and tell your boss why you made a smart choice.
+
+April Dunford (00:34:43):
+And so we have to be able to give customers that when they get on the sales call with us. The best thing we could do is say, "Look, buddy, there's lots of CRMs out there, and let me tell you how this market shakes out. These ones are really good for big enterprises. These ones are really good, if you got this. These ones are really good, if you got this. But look, if you're this, this and this, you really need these four things and we got that and that's why you should pick us."
+
+April Dunford (00:35:08):
+Because we need to make that customer feel comfortable they've made a good decision. Otherwise, what happens? No decision, that's what happens. If they can't figure that out, they go back to the boss and say, "You know what? All the CRMs are shit. We should just keep using the spreadsheet. It's fine. Let's just allay this." And 40% of the time that's what happened.
+
+April Dunford (00:35:26):
+So if you can't help the customer figure out how to justify this decision and make this decision and basically come back and say, "I decided this was the right approach to the problem and I picked this one for this reason," then you're not going to get the deal and nobody's going to get the deal.
+
+Lenny (00:35:41):
+And in your experience, the fact that here's why it's different from maybe the incumbents or other options ends up being really important? Basically, it's really hard to win by just saying we're better, say better than Slack or better than Zoom. It needs to be-
+
+April Dunford (00:35:58):
+But better how? You got to be able to articulate better. So sometimes it's like they have more bells and whistles, but we're simpler and you don't actually need all those bells and whistles. So we're better because we're easier at it, less training, easier to get stood up, whatever.
+
+April Dunford (00:36:10):
+Or you might say the opposite of that, we have all the bells and whistles. It's super customizable. You could do whatever you want. Those other things are Mickey Mouse play things. You're a big mature company, you need all the bells and whistles. We're better.
+
+Lenny (00:36:21):
+Great.
+
+April Dunford (00:36:22):
+And so that better has two pieces to it, what's the value and who cares about that value? Because better means something different to different segments in the market. So better for a small company is not the same thing as better for a large enterprise.
+
+April Dunford (00:36:36):
+Your trick in the positioning is to be able to articulate, why are we the best kind of solution for this particular type of customer? That's it. And if you could nail that, then you sell lots of stuff, you beat the other guys, you win deals all the time.
+
+Lenny (00:36:51):
+I love that. That's going to be our soundbite from this episode maybe.
+
+April Dunford (00:36:54):
+Oh great.
+
+Lenny (00:36:55):
+There it is. I want to go back to the messaging versus positioning. What's the difference between those two concepts?
+
+April Dunford (00:37:02):
+So they get confused a lot and a lot of people will say, "Well, I don't like our messaging. So can you come in and help do messaging?" I think they're really distinct because I see positioning as a fundamental input to messaging.
+
+April Dunford (00:37:18):
+Most of the time when people say messaging, what they mean is this is the text on the homepage, which is really different from what is my definition of competitive alternative? How do we win in the market? Where do we win in the market? So positioning's all about defining that and then things flow out of that. So I can't write the messaging until I understand, well, who's the message for, and what's our value against who? And so once I understand all of that, then I can understand how to write messaging.
+
+April Dunford (00:37:46):
+A lot of people get confused between positioning and branding as well. And folks will sometimes use those words interchangeably or they'll talk about brand positioning, which really bugs me. I mean, there's positioning and there's branding, those two things are different.
+
+April Dunford (00:38:00):
+But if I was going to work on branding, again, I can't figure out what I want the brand to stand for until I understand, well, who's my target buyer and what's my differentiation from the other alternatives in the market because I want that brand to be distinct.
+
+April Dunford (00:38:17):
+So I need to have positioning figured out first and then practically everything I do in marketing and sales flows downstream from that.
+
+Lenny (00:38:24):
+Are there any companies out there that you think need help with their positioning that maybe have an opportunity to work with someone like you?
+
+April Dunford (00:38:32):
+There's some companies that I think you can tell they've not really thought about it. And a lot of times you'll see it in companies where they're brand new and the tech is really spectacular, but you can tell they haven't quite figured out well, so what?
+
+April Dunford (00:38:49):
+So when Magic Leap first launched that stuff was so mind blowing and it was like, oh my gosh, and all their demonstrations, the thing with the elephant and the guy's hand and all that stuff, and you're like, "Wow, that's amazing."
+
+April Dunford (00:39:04):
+And I read this really in depth interview with the founder and he was talking about the tech and this guy's view on the market, it was so interesting, but it was like, so what? What am I actually going to do with that? Who's your target market for this? What is the value of this? We all get it's cool, but what is the actual value of this?
+
+April Dunford (00:39:26):
+And you can see now, which I don't know if people know this, but if you go to the Magic Leap site, and I do because I'm interested in Magic Leap because I've been following their story since the beginning, but they've now gotten much tighter on their positioning.
+
+April Dunford (00:39:42):
+And they're actually selling B2B now, into manufacturing and they're talking about wide frame of view and all this stuff you can do, that's really differentiated than you could with other types of traditional VR things. And so if you look at their positioning, now, it's getting much, much tighter, but at the beginning it was like, what?
+
+April Dunford (00:39:58):
+And I felt the same thing about Google Glass, when it first came out. It was like, I get why people get excited about it, I just don't get why anybody would buy. I get what it is, but why do we need one of those? I don't see the value in this thing at all.
+
+April Dunford (00:40:11):
+And then again, if you see the applications for Google Glass now, there's a lot of very specific B2B use cases that they're now doubling down on. And they're coming back to the consumer use case a little bit now for some augmented reality stuff that actually sounds like it's useful. But a lot of times what we'll get is the initial launch of something will be this gee-whiz, it's so amazing.
+
+April Dunford (00:40:34):
+The archetype of this is the launch of the Segway. So there's been a couple of books written about it, but it's fascinating. The original founder of the Segway was the Elon Musk of his day. He had done three or four other companies, they were all wildly successful. When he got the idea for the Segway, he literally lifted his little pinky and raised a hundred million from Steve Jobs, Jeff Bezos, and a who's who of Silicon Valley venture.
+
+April Dunford (00:40:59):
+And then he kept positioning the thing as a revolution in human transport, but he didn't want to let the cat out of the bag, what it was, so he just kept saying that. And he was in the news all over and he's like, "Revolution in human transport." And people were getting so excited because they were like, "What's a revolution in human transport? It's a flying car, man. We're finally getting flying cars."
+
+April Dunford (00:41:18):
+So everybody's studying his patent filings and all this stuff, and they were like, "Oh my God, we're getting flying cars. It's going to be amazing." And there was such hype around this thing when they launched it that he actually got invited to Good Morning America.
+
+Lenny (00:41:31):
+I was watching that. I was watching that live [inaudible 00:41:33]-
+
+April Dunford (00:41:33):
+Yeah, to come on Good Morning America, do the thing and everyone's like, "Oh my God, we're getting flying cars." And then he comes out on the Segway and everyone's like, "What the fuck? That's not what we were promised, man."
+
+April Dunford (00:41:45):
+And the interesting thing about this Segway was that refusal to position it at a micro level, left it up to the customers to decide what it was. So even when we saw it was like, "Okay, so it's human transport. We get that, but what should I compare it to? Should I compare it to a car or a bicycle?"
+
+April Dunford (00:42:05):
+And so a lot of the early users were saying it was the worst thing to have a Segway because nobody knew where you were supposed to drive it because they didn't know what it was. So if you were driving on the road, cars were honking at you and they're like, "Get that stupid thing off the road." But if you drive it on the sidewalk, then the ladies with the baby strollers are like, "Get that stupid thing off the sidewalk."
+
+April Dunford (00:42:26):
+And the thing was a colossal failure eventually. The patents are still amazing. The patents just got sold last year or the year before to some company that does these hoverboard things. But the tech was way, way ahead of its time, but there wasn't good positioning to answer the question, who's this for? Why do they care? So what?
+
+Lenny (00:42:46):
+That's a really good segue to a question I wanted to ask you is when-
+
+April Dunford (00:42:48):
+Segue, ooh.
+
+Lenny (00:42:49):
+Wow. Unintentionally intended. When does it make sense for a company to bring in someone like you to go deep on positioning?
+
+April Dunford (00:42:59):
+I think most companies can do positioning on their own. That's my belief. Some companies I think lack a methodology to follow to go do it. So I wrote a book called Obviously Awesome, and that was the purpose of that book. If you want to do positioning and you just want to start a little exercise and do it yourself in house, you can use my methodology and my way to do it. And I think most companies can get it done that way.
+
+April Dunford (00:43:24):
+But most of the ones that come to me have attempted to do that and it hasn't worked out for one reason or another. So sometimes it's because, and this is not unusual in startups, we got an executive team full of A type people and we're all pretty opinionated and we just can't get to agreement on stuff. And it makes a lot of sense to bring an outside person in to help facilitate that conversation, particularly one that's got a lot of experience in positioning.
+
+April Dunford (00:43:49):
+So sometimes I get brought in for that reason. Other times I get brought in as companies just feel like they really got to nail it because there's a lot at stake. I've done a lot of work with companies that they're about to hire 10, 15 people in sales or they're about to make a really big investment in marketing and they just want to make sure they really nail it and not have to maybe do a not so great version and then redo it and then redo it again. If you bring me in, then we're going to nail it. There's no way we're going to get to something that isn't good.
+
+April Dunford (00:44:17):
+So sometimes people bring me in because they feel like there's a lot at stake. And those are generally the companies that bring me in. Some bigger companies I think bring me in, again, a bit more of a security blanket. We know we could do it ourselves, we kind of got it ourselves, but we'd feel better if we had the expert in here just to make sure we nail it once and we don't have to come back and do this again right away.
+
+April Dunford (00:44:39):
+So those are the kind of companies typically I work with, but I think a lot of companies could get it done with my book or some methodology, get the gang together and just bang it out themselves. I think everybody should start there.
+
+Lenny (00:44:50):
+That's awesome. How long should it take to do this kind of process either on their own and then with you? How long do these things take?
+
+April Dunford (00:44:57):
+Well, so the work that I do, we do it as a week long sprint. Now there's a bunch of prep that happens before that and there's some stuff we do afterwards, but the actual exercise itself is a series of sessions spread out over a week. I've seen companies do it on their own and they do it in a couple of days. They trap everybody in a room over a couple of days.
+
+April Dunford (00:45:17):
+Assuming you've got the right information to go and start with it, it shouldn't take you too long. And it really depends on how contentious things are because again, what you're trying to get to is agreement and alignment across the team. You're not done until everybody thinks what we've come up with is good.
+
+Lenny (00:45:33):
+So it sounds like you work mostly with larger companies and later stage companies. I mentioned this to you before we-
+
+April Dunford (00:45:39):
+Yes and no.
+
+Lenny (00:45:39):
+Okay. Okay.
+
+April Dunford (00:45:40):
+Yes and no. It depends on how you define that really. I've done a lot of companies that are around 5 million revenue, 10 million revenue in there. So they're beyond seed stage, but I wouldn't call them a large company quite yet.
+
+April Dunford (00:45:55):
+But I will say this, I do get a lot of calls from companies that are super early stage and where I don't think they're ready to actually really ... Well, they're not ready to bring in someone like me, and I think in general, they're not ready to really over tighten their positioning.
+
+April Dunford (00:46:12):
+So I think about it this way. So I've got this new thing, I'm either about to launch it into market or I've got it in market, I've got a handful of customers. At that stage, what I think you've got is a positioning thesis. And so the best thing you could do is deliberately go through a positioning exercise, document the thesis.
+
+April Dunford (00:46:30):
+And so the thesis says, we think we compete with these folks. We think this is differentiating. This is the value we think we can deliver that no one else can. These are the people we think are going to get really excited about that. Therefore, this is the market we're going to win. But it's just a thesis.
+
+April Dunford (00:46:43):
+And so internally it's good for us all to be in alignment internally, but when I go to launch that externally, if I don't have any customers yet, it's very likely, and in my experience, 100% of the time, the thesis is partially incorrect. It's based on a bunch of assumptions and our best guess at it, based on what we did in customer discovery or all our research we did before we built the thing.
+
+April Dunford (00:47:05):
+But we always, we're never a hundred percent correct. And so in these cases, I actually think it's better in the early days of a product to keep the positioning a little bit loose and allow the market to pull you maybe in a direction that you didn't think it was going to.
+
+April Dunford (00:47:23):
+So here's my terrible analogy I use all the time, but I'm going to use it here. But it's like I designed a fishing net and my thesis is this thing's amazing for tuna. It's a tuna fishing net. It's the world's greatest tuna fishing net.
+
+April Dunford (00:47:35):
+So I could launch that and say, "It's just for tuna, only tuna. Don't use it if it's not tuna." And maybe it works for tuna, maybe it doesn't and I don't really know. And if it fails, it fails hard.
+
+April Dunford (00:47:47):
+A better way I think is we know internally that it's the tuna fishing net. That's why we built it. That's what it is, but let's just at the beginning, let's put it out there and keep it a little loose and we say, "It's a net for fish, big fish, all kinds of big fish, any kind of big fish. And then let's just see, let's let the fishermen try it out. Let's see what they pull up."
+
+April Dunford (00:48:06):
+And maybe what we discover is, you know what? This thing's actually amazing for grouper and we just didn't know, because we're not grouper people. We didn't really think about grouper. And then once we've got enough of that signal and we start seeing the pattern in who loves our stuff and why, then we can really tighten it up and run at that market.
+
+April Dunford (00:48:22):
+But at the beginning, I think it's actually okay if your positioning's a little bit loose. And so I think you can worry too much about positioning in the super early days of a product when it's impossible to tighten it up, because you just don't have the data to do it.
+
+Lenny (00:48:35):
+I know that you touched on this a bit, but what does that transition look like between, okay, it's okay to keep it loose and see where the market pulls to, okay, we got to start taking this seriously? Is there a trigger that's like, okay, let's get into this?
+
+April Dunford (00:48:47):
+Yeah. It's one of those things that usually like you know when you know. But what you want is you want to start feeling comfortable that there's a pattern and it isn't just like, hey, I got one customer in this segment and one customer in this segment and one customer in this segment and I don't really know.
+
+April Dunford (00:49:06):
+What it usually starts at the beginning is it starts with, you'll say, "Gosh, all kinds of people like our stuff. All kinds of people like our stuff for all kinds of different reasons." And if you're seeing that you don't see the pattern yet.
+
+April Dunford (00:49:19):
+And eventually what happens is the pattern starts becoming clear that it's like, oh, all those customers look differently but there's actually this thread through them. Look, they all have the same marketing automation tool. Isn't that interesting? Or they all have the same number of sales people on their team. Isn't that interesting? I've done enough of these pitches now to know if you've got this, this, and this, this pitch is going to go good, and if you don't, it is not going to go good.
+
+April Dunford (00:49:47):
+So once you start feeling like I got the pattern here, it's starting to come into focus, then I think you're ready to really tighten things up, smash your foot on the gas and say, "We're just going to run at that because we know we can sell here. We know we win pretty much every time when we meet these conditions. Let's go do that."
+
+Lenny (00:50:06):
+I'm really glad we touched on this topic. I mentioned to you earlier that I was at a meetup last night and I was talking about this podcast that I'm starting and I asked who they'd love to hear on this podcast, and your name was the first name this guy brought up. And so-
+
+April Dunford (00:50:19):
+That's awesome.
+
+Lenny (00:50:19):
+... he's a huge fanboy. And I asked him what question he would ask you.
+
+April Dunford (00:50:22):
+I have fans. That's so cool.
+
+Lenny (00:50:26):
+You're out there. You're out there at meetups. And this is what he wanted to know actually is around just how do you think about this for startups and early stage stuff. So I'm glad we touched on it.
+
+April Dunford (00:50:32):
+Yeah.
+
+Lenny (00:50:33):
+The last topic I want to make sure we chat about, and this is what led to our conversation, we had a Twitter exchange about this was around segmentation versus personas and just how people confuse these things and how to think about these topics. And so I guess I'd love to get your take on just what's the difference between say segmentation and personas.
+
+April Dunford (00:50:51):
+Right. So you know how I said earlier marketers, we're really bad with definitions on things? And so everything in marketing is poorly defined and the marketers are always fighting over what do we mean when we say brand and things like this? So personas and segments, oh my gosh, terrible.
+
+April Dunford (00:51:10):
+So now this I think stems from if you go to marketing school, a lot of what you learn in marketing school is very consumer oriented, like consumer product oriented. And so if you're selling to consumers, a lot of the ways a consumer market gets segmented ... So segmentation is the way you split up a market.
+
+April Dunford (00:51:29):
+So the way you would segment a consumer market is you might say, "Well, I've got this toothpaste. And this toothpaste is for men under the age of 16 that want to get a date or something like that." And that would be how you would segment the market, which coincidentally sounds a lot like a persona.
+
+April Dunford (00:51:51):
+So personas are about people and it's characteristics of a particular buyer, a particular type of buyer. And so we'll do personas to try to get really deep understanding of, who is this buyer? What are they care about? What are their hopes and dreams? What makes them scared? What makes them excited? What are they trying to get done? This kind of stuff.
+
+April Dunford (00:52:10):
+Now we go to B2B and that's not how we segment a market. We're not talking about 25 year old down to the age of whatever, whatever. We're segmenting the market on different things. And in fact, in B2B, we can segment a market on almost anything, but typically there would be what we call firmographics, like how big's the company? How many employees? How much revenue? What geography is it in? But then we often do segmentations on things that are nothing to do with that.
+
+April Dunford (00:52:35):
+So if we really want to target a set of customers, often we'll say, "You know what? My product is really good for folks that have a creative team with more than three people and a budget of this and they use this particular software package." We win all day, if we have that.
+
+April Dunford (00:52:56):
+And that's a very actionable segmentation, I can go find companies that have that, I can make a list of companies that have that. And that's who my marketing and sales is going to go after. If sales needs to make a list of companies to go chase, that's that. And so in my mind, this is super important.
+
+April Dunford (00:53:13):
+Coming back to the previous question, when we were talking about, I'm starting to see the patterns in who loves my stuff and why, I'm not talking about the person there, I'm talking about the kind of company. What is common amongst the companies that love us, that I can segment the market and say, "Look, if your company is this size, you have this software package, you have this and this," I'm going to win all day.
+
+April Dunford (00:53:35):
+And so I need to understand that deeply in order to build my whole go-to market strategy, in order to have marketing campaigns that resonate with those kinds of companies, in order to make a list, if my sales are doing outbound, or if I'm doing target account selling, or ABM, how do I make that list of who I'm going after, that kind of stuff.
+
+April Dunford (00:53:53):
+Then we have personas. Now again, if I'm selling a consumer thing, maybe all I care about is personas, all I care about is who's this person who's the buyer. B2B, everything's a little bit more complicated than that. So in a typical B2B purchase process, particularly if it's what we would call enterprise software, even if it's not very expensive enterprise software, typically we have between five and seven people are involved in what we call making the decision for what gets bought.
+
+April Dunford (00:54:24):
+So if I come back to my example earlier where the VP sales decides they need a CRM and they pick on poor John, and then John's got to go figure it out. John, that persona, let's say he's the sales ops manager, we would make a sales ops manager persona that would capture that person, but there's other people involved in this deal.
+
+April Dunford (00:54:44):
+So as part of figuring out which CRM to buy, when he got in the later stages of the deal, he probably consults some of the sales reps, because they're going to be the end users of this thing, and so he doesn't want to pick something that they're all going to hate.
+
+April Dunford (00:54:56):
+He's probably got an IT department and IT probably gets to say about, well, does it meet our security and compliance stuff? And we're going to have to take care of it. Does it integrate with what we need to integrate with? Can it suck in data or push out data to our data warehouse or whatever? So that person has a say.
+
+April Dunford (00:55:14):
+There might be a purchasing department. There might be legal involved. There might be head of security involved. There might be chief security officers. Somebody gets their nose in there and gets involved in that. So five to seven people involved in this deal.
+
+April Dunford (00:55:26):
+And so here's where I think we go off the rails in marketing. So what I see marketing teams doing is they'll do personas for all those people. So they'll have this sheet and the sheet will say, Eric, the IT person doesn't like talking on the phone, who really likes video games. And they'll have this stereotype of Eric, the IT person. And then they'll say, Janet, the sales rep really outgoing, loves talking to people on the phone. Doesn't know what a video game is, that sort of thing.
+
+April Dunford (00:56:01):
+So for positioning work, I'm going to say something that is contentious, but I don't think it is at all. Think about how the deal gets done. Here's how this actually happens. Vice president says to John, "Go figure it out." John then does all this research and figures out how to get a short list.
+
+April Dunford (00:56:18):
+And then John might actually go all the way through to having calls with sales people and all this sort of stuff with all the vendors. And then John's really getting down to, okay, I'm going to pick this thing over this thing and then starts bringing in the other people.
+
+April Dunford (00:56:30):
+So by far the most important persona that matters is that one. We call this the champion in the account because this person, their job is to get consensus and champion the deal across everybody, including their boss, who's the actual economic buyer, the person that writes the check.
+
+April Dunford (00:56:49):
+And so if our positioning doesn't resonate for that champion, we're dead in the water. We don't even get on a short list. We don't even get to care about all the other personas, if we don't nail it with John because John's a gatekeeper.
+
+April Dunford (00:57:03):
+So my positioning needs to crush it with John. And at some point way down the road, I need to arm John to be able to sell IT, to be able to sell purchasing, to be able to make sure everybody is cool on the user side and to be able to sell their boss, who's the economic buyer.
+
+April Dunford (00:57:22):
+And so I think there's really only one persona that really, really matters in this, which is the champion in the account. And we should be very thoughtful and we should really have our arms around that persona. And then later in the deal cycle, we need to figure out how to arm that persona to go sell to all the other constituents in the deal. But if we don't nail that champion persona, we got nothing.
+
+April Dunford (00:57:46):
+So I think it is an utter waste of time for marketing to build these stupid little one pager persona things for these 17 million personas and treat them like they're the same as the champion, when the champion matters times a thousand and all we really need to do is figure out how to arm the champion, because the champion's going to do this, the heavy lifting of selling IT. We're likely not even going to get all that involved. Gee, that's my [inaudible 00:58:12].
+
+Lenny (00:58:13):
+That was amazing. I've never heard it described so directly and clearly. And so I think that's actually a good way to just wrap things up. I feel like I've sucked up enough of your time. Where can folks find your book, contact you if they want to work with you, anything like that?
+
+April Dunford (00:58:29):
+Sure. The book's called Obviously Awesome, and you can Google me and find that wherever books are sold. And then there's an audio book, if that's your jam or an E-book or whatever. And then my website is aprildunford.com, so you can find me there. I'm on LinkedIn, I'm on Twitter. I'm @aprildunford on social media, but I don't really do any social media except Twitter and a little bit of LinkedIn these days because I'm feeling less certain about the future of Twitter, but yeah.
+
+Lenny (00:58:56):
+Your tweets are great by the way. I highly recommend following April on Twitter.
+
+April Dunford (00:58:59):
+Oh good. Yeah, follow of me on Twitter.
+
+Lenny (00:59:01):
+How can listeners be useful to you?
+
+April Dunford (00:59:03):
+That's a great question. I don't know. Well, one thing I will say that I really love about Twitter is I use Twitter a lot to clarify my thinking on things. And so I really appreciate smart interactions with people on Twitter because sometimes I'll have a half-baked idea. And it's one of the things that I really like about Twitter versus LinkedIn, if I have a half-baked idea, I throw it out on LinkedIn and everyone goes, "That's great April," and that's it. Whereas if I have a half-baked idea and I throw it out on Twitter, people aren't shy about telling me I'm wrong.
+
+April Dunford (00:59:36):
+And I appreciate it because I think that's how your thinking gets clearer. I mean, I'd like you to be nice about it if possible, but I like it when people jump in and they go, "Well, actually that doesn't really work if it's this, this and this." And you're like, "Ooh yeah, actually, you're right. Never really thought about that before."
+
+April Dunford (00:59:52):
+So people that follow me on Twitter are really useful that way. And then I think I have this really engaged, thoughtful bunch of people following me on Twitter, people that are really interested in this stuff. And so I think it's kind of fun to be able to bat some deeper ideas around on stuff and not just have everybody go thumbs up, yay, April. That's kind of boring to me.
+
+Lenny (01:00:12):
+Radical candor, that's what you need.
+
+April Dunford (01:00:13):
+Oh yeah, I appreciate the thumbs up. Give me the thumbs up, but if that's all I was trying to do, then I wouldn't be throwing out as much half-baked, sort of controversial hot takes on Twitter as I do.
+
+Lenny (01:00:26):
+I use Twitter in a very similar way, and so I completely understand that aspect.
+
+April Dunford (01:00:30):
+Yeah, it's great for that.
+
+Lenny (01:00:31):
+It's amazing for that. April, thank you so much for making time. I learned a ton and I really appreciate your time.
+
+April Dunford (01:00:36):
+All right. Well, thanks so much for having me and congratulations on the new podcast. I'm so excited for it.
+
+Lenny (01:00:42):
+Me too. Me too. That was awesome. Thank you for listening. If you enjoyed the chat, don't forget to subscribe to the podcast. You could also learn more at lennyspodcast.com. I'll see you in the next episode.
+

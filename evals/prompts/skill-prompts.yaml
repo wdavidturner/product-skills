@@ -1,0 +1,267 @@
+version: 2
+description: |
+  Eval prompts for testing skill triggering. Each skill has 3 prompt types:
+  - minimal: Short but with clear intent signal (not just the skill name)
+  - scenario: Realistic PM scenario requesting guidance
+  - application: User actively trying to apply the framework
+
+skills:
+  - id: design-sprint
+    title: "Design Sprint"
+    prompts:
+      - id: minimal
+        intent: trigger
+        text: "How do I run a design sprint? Walk me through the process."
+      - id: scenario
+        intent: trigger
+        text: "We have a new feature idea but no one agrees on what to build. Leadership wants us to validate it fast before committing engineering resources. What's the best way to do this in a week?"
+      - id: application
+        intent: trigger
+        text: "I'm facilitating a design sprint next Monday. Help me plan the 5 days — what happens each day and what do I need to prepare?"
+
+  - id: growth-loops
+    title: "Growth Loops"
+    prompts:
+      - id: minimal
+        intent: trigger
+        text: "Explain growth loops and how they differ from funnels."
+      - id: scenario
+        intent: trigger
+        text: "We're spending $50k/month on paid acquisition but growth flatlines whenever we pause ads. How do we build something more sustainable?"
+      - id: application
+        intent: trigger
+        text: "Help me design a growth loop for our B2B SaaS product. Users create reports that get shared externally. What would the loop look like?"
+
+  - id: hierarchy-of-engagement
+    title: "Hierarchy of Engagement"
+    prompts:
+      - id: minimal
+        intent: trigger
+        text: "How do I identify and measure our product's core action?"
+      - id: scenario
+        intent: trigger
+        text: "We have lots of sign-ups but retention is terrible. Users try the product once and never come back. How do we figure out what's broken?"
+      - id: application
+        intent: trigger
+        text: "Help me apply the Hierarchy of Engagement to our note-taking app. What should our core action be, and how do we build accruing benefits around it?"
+
+  - id: hierarchy-of-marketplaces
+    title: "Hierarchy of Marketplaces"
+    prompts:
+      - id: minimal
+        intent: trigger
+        text: "How do I solve the chicken-and-egg problem for a new marketplace?"
+      - id: scenario
+        intent: trigger
+        text: "We're building a marketplace connecting freelance designers with startups. We have neither supply nor demand yet. Where do we start?"
+      - id: application
+        intent: trigger
+        text: "Apply the Hierarchy of Marketplaces framework to our local services marketplace. We're at GMV level 1. What should we focus on to get to level 2?"
+
+  - id: hooked-model
+    title: "The Hooked Model"
+    prompts:
+      - id: minimal
+        intent: trigger
+        text: "Walk me through the Hooked model for building habit-forming products."
+      - id: scenario
+        intent: trigger
+        text: "Users love our app when they use it, but they forget to come back. We're sending tons of notifications but it feels spammy. How do we create genuine habits?"
+      - id: application
+        intent: trigger
+        text: "Help me map our fitness app to the Hooked model. What's the trigger, action, variable reward, and investment? Where are we weakest?"
+
+  - id: jobs-to-be-done
+    title: "Jobs-to-be-Done (JTBD)"
+    prompts:
+      - id: minimal
+        intent: trigger
+        text: "Explain Jobs-to-be-Done and how to use it for product discovery."
+      - id: scenario
+        intent: trigger
+        text: "We keep building features customers say they want, but adoption is low. I think we're missing something about why they actually buy. How do I figure out the real motivation?"
+      - id: application
+        intent: trigger
+        text: "Help me prep for JTBD interviews. I'm talking to 10 recent customers this week. What questions should I ask to uncover their actual job-to-be-done?"
+
+  - id: monetizing-innovation
+    title: "Monetizing Innovation"
+    prompts:
+      - id: minimal
+        intent: trigger
+        text: "How do I figure out pricing for a new product? Walk me through the process."
+      - id: scenario
+        intent: trigger
+        text: "We're launching a new tier of our SaaS product. Leadership wants to price it at $99/month but I think that's too low. How do I validate willingness to pay before we launch?"
+      - id: application
+        intent: trigger
+        text: "Apply the Monetizing Innovation framework to our API product. We're not sure if we should charge per seat, per API call, or flat rate. How do I think through this?"
+
+  - id: okrs
+    title: "OKRs (Objectives and Key Results)"
+    prompts:
+      - id: minimal
+        intent: trigger
+        text: "How do I write good OKRs? What makes them effective vs. useless?"
+      - id: scenario
+        intent: trigger
+        text: "Our team sets OKRs every quarter but they never feel meaningful. We either hit them easily or ignore them. How do we make OKRs actually drive behavior?"
+      - id: application
+        intent: trigger
+        text: "Help me write OKRs for our growth team this quarter. Our focus is improving activation rate from 20% to 35%. What should the objective and key results look like?"
+
+  - id: opportunity-solution-trees
+    title: "Opportunity Solution Trees"
+    prompts:
+      - id: minimal
+        intent: trigger
+        text: "How do Opportunity Solution Trees work? Walk me through building one."
+      - id: scenario
+        intent: trigger
+        text: "We have a clear outcome goal but 50 different ideas for how to achieve it. The team is paralyzed by options. How do we prioritize discovery work?"
+      - id: application
+        intent: trigger
+        text: "Help me build an Opportunity Solution Tree. Our outcome is 'increase trial-to-paid conversion by 20%'. What opportunities should we explore, and how do I structure the tree?"
+
+  - id: pmf-survey
+    title: "PMF Survey (Product-Market Fit Survey)"
+    prompts:
+      - id: minimal
+        intent: trigger
+        text: "How do I measure product-market fit? What's the PMF survey and how do I use it?"
+      - id: scenario
+        intent: trigger
+        text: "Investors keep asking if we have product-market fit. Some users love us, others churn immediately. I need a concrete way to measure where we are and track progress."
+      - id: application
+        intent: trigger
+        text: "Help me run a PMF survey. We have 500 active users. What question do I ask, how do I interpret the results, and what's a good benchmark?"
+
+  - id: positioning-canvas
+    title: "Positioning Canvas"
+    prompts:
+      - id: minimal
+        intent: trigger
+        text: "How do I position my product? Walk me through a positioning framework."
+      - id: scenario
+        intent: trigger
+        text: "We keep losing deals to competitors even though our product is better. I think our positioning is off — we sound like everyone else. How do I differentiate?"
+      - id: application
+        intent: trigger
+        text: "Help me fill out a positioning canvas for our project management tool. We're targeting creative agencies who are frustrated with Jira. What's our competitive alternative, and how do we frame our unique value?"
+
+  - id: product-led-growth
+    title: "Product-Led Growth (PLG)"
+    prompts:
+      - id: minimal
+        intent: trigger
+        text: "What is product-led growth and when does it make sense vs. sales-led?"
+      - id: scenario
+        intent: trigger
+        text: "We currently sell through enterprise sales but close rates are low and the cycle is 6+ months. Should we add a self-serve tier? How do we think about this?"
+      - id: application
+        intent: trigger
+        text: "Help me design a PLG motion for our analytics tool. We want a free tier that converts to paid. What should be free vs. paid? How do we design the upgrade triggers?"
+
+  - id: product-led-seo
+    title: "Product-Led SEO"
+    prompts:
+      - id: minimal
+        intent: trigger
+        text: "What is product-led SEO and how is it different from content marketing?"
+      - id: scenario
+        intent: trigger
+        text: "We're getting 10k organic visitors/month but almost none convert. Our blog drives traffic but it's not the right audience. Is there a better way to do SEO?"
+      - id: application
+        intent: trigger
+        text: "Help me build a product-led SEO strategy. We're a job board for remote developers. What programmatic pages should we create, and how do we structure them for search?"
+
+  - id: radical-candor
+    title: "Radical Candor"
+    prompts:
+      - id: minimal
+        intent: trigger
+        text: "Explain Radical Candor. How do I give feedback that's both caring and direct?"
+      - id: scenario
+        intent: trigger
+        text: "I need to tell a direct report that their work quality has dropped, but I'm worried about damaging the relationship. How do I have this conversation?"
+      - id: application
+        intent: trigger
+        text: "Help me prepare feedback using Radical Candor. My engineer keeps missing deadlines and making excuses. I care about them but this can't continue. What do I say?"
+
+  - id: seven-powers
+    title: "7 Powers: The Foundations of Business Strategy"
+    prompts:
+      - id: minimal
+        intent: trigger
+        text: "What are the 7 Powers? How do I use them to evaluate competitive moats?"
+      - id: scenario
+        intent: trigger
+        text: "We're growing fast but I'm worried competitors will just copy us. How do I think about building defensibility? What actually creates a sustainable moat?"
+      - id: application
+        intent: trigger
+        text: "Apply the 7 Powers framework to our business. We're a vertical SaaS for dentists with 30% market share. Which powers do we have, and which should we build?"
+
+  - id: shape-up
+    title: "Shape Up"
+    prompts:
+      - id: minimal
+        intent: trigger
+        text: "Explain Shape Up. How is it different from Scrum or Kanban?"
+      - id: scenario
+        intent: trigger
+        text: "Our sprints feel like a treadmill — we ship increments but never finish anything meaningful. How do we change our process to ship complete features?"
+      - id: application
+        intent: trigger
+        text: "Help me shape a project using Shape Up. We want to add team workspaces to our app. How do I write a pitch with the right level of abstraction — shaped but not over-specified?"
+
+  - id: strategic-narrative
+    title: "Strategic Narrative"
+    prompts:
+      - id: minimal
+        intent: trigger
+        text: "What is a strategic narrative and how do I create one for my company?"
+      - id: scenario
+        intent: trigger
+        text: "Our sales pitch is a feature list and it's not working. Prospects don't get why we're different. How do I tell a story that makes them care?"
+      - id: application
+        intent: trigger
+        text: "Help me write a strategic narrative using Andy Raskin's framework. We're a compliance automation tool. What's the shift in the world, and how do we frame our promised land?"
+
+  - id: thinking-in-bets
+    title: "Thinking in Bets"
+    prompts:
+      - id: minimal
+        intent: trigger
+        text: "How do I make better decisions under uncertainty? Explain thinking in bets."
+      - id: scenario
+        intent: trigger
+        text: "We have two major product bets we could make but can only resource one. Both have uncertain outcomes. How do I think through this decision without just going with my gut?"
+      - id: application
+        intent: trigger
+        text: "Help me apply thinking in bets to a launch decision. We can either launch a smaller feature now (70% confident it helps) or wait 2 months for the bigger version (40% confident). How do I evaluate this?"
+
+  - id: trustworthy-experiments
+    title: "Trustworthy Experiments"
+    prompts:
+      - id: minimal
+        intent: trigger
+        text: "How do I run A/B tests that give trustworthy results? What are the common pitfalls?"
+      - id: scenario
+        intent: trigger
+        text: "We ran an A/B test that showed a 15% lift, but when we shipped it the gains disappeared. What went wrong and how do we prevent this?"
+      - id: application
+        intent: trigger
+        text: "Help me design an experiment for our new checkout flow. I want to measure conversion rate impact. How do I size it correctly, pick the right metric, and avoid false positives?"
+
+  - id: working-backwards
+    title: "Working Backwards"
+    prompts:
+      - id: minimal
+        intent: trigger
+        text: "How does Amazon's Working Backwards process work? Walk me through writing a PR/FAQ."
+      - id: scenario
+        intent: trigger
+        text: "We're about to build a major new feature but the team has different visions of what it should be. How do I align everyone before we start coding?"
+      - id: application
+        intent: trigger
+        text: "Help me write a PR/FAQ for a new feature. We want to add AI-powered search to our knowledge base product. What should the press release say, and what questions should the FAQ answer?"

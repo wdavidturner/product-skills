@@ -1,0 +1,285 @@
+Marty Cagan (00:00):
+People don't buy the problem, they buy your solution. Obviously they don't buy it if it's not solving something they care about, but there are many products that are solving what they care about. The real question is, do you solve it better than everybody else so that they buy you? And that's where you need to take time. So this is more like the coaching I give the teams. I tell them, "Look, be careful. If you need to spend a little time on the problem, fine, but don't spend a lot of time because you need to save as much time as possible to come up with the winning solution."
+
+Lenny (00:41):
+What can I say about Marty Cagan that hasn't already been said? He's the author of Empowered and Inspired, two of the most widely read and influential books on product management. He's also the founder of Silicon Valley Product Group, which he started over 20 years ago. More than anyone else out there, he's been producing the most consistently great and actionable advice for product managers and leaders looking to level up their product game. Before getting into teaching, he was VP of Product at Netscape. He's also a senior VP of eBay. I am humble to have Marty on this podcast. He's an absolute legend in the PM community and I can't wait for you to hear this episode. And with that, I bring you Marty Cagan.
+
+Lenny (01:23):
+This episode is brought to you by Whimsical. When I ask product managers and designers on Twitter what software they use most, Whimsical is always one of the most mentioned products, and the users are fanatical. Whimsical is built for collaborative thinking, combining visual text and data canvases into one fluid medium. Distributed teams use Whimsical for workshops, white boarding, wire frames, user flows, and even feature specs. And that includes thousands of built in icons and a rich library of templates. See why product teams at leading companies call Whimsical a game changer. Visit whimsical.com/lenny to have my own templates added to your account when you sign up. That's whimsical.com/lenny.
+
+Lenny (02:09):
+Hey, Ashley, head of marketing at Flatfile. How many B2B SaaS companies would you estimate need to import CSV files from their customers?
+
+Ashley (02:17):
+At least 40%.
+
+Lenny (02:19):
+And how many of them screw that up, and what happens when they do?
+
+Ashley (02:22):
+Well, based on our data, about a third of people will consider switching to another company after just one bad experience during onboarding. So if your CSV importer doesn't work right, which is super common considering customer files are chock full of unexpected data and formatting, they'll leave.
+
+Lenny (02:41):
+I am 0% surprised to hear that. I've consistently seen that improving onboarding is one of the highest leverage opportunities for both signup conversion and increasing long term retention. Getting people to your aha moment more quickly and reliably is so incredibly important.
+
+Ashley (02:56):
+Totally. It's incredible to see how our customers like Square, Spotify and Zuora are able to grow their businesses on top of flat file. It's because Wallace data onboarding acts like a catalyst to get them and their customers where they need to go faster.
+
+Lenny (03:13):
+If you'd like to learn more or get started, check out Flatfile at flatfile.com/lenny. Marty Cagan, welcome to the podcast.
+
+Marty Cagan (03:26):
+Thanks for inviting me, Lenny.
+
+Lenny (03:28):
+It's absolutely my pleasure. I'm just going to jump straight in. I've noticed that you've been getting a lot more philosophical about product, especially in a lot of your recent writing, including a recent post that you call the Nature of Product, where you talk about a lot of these core misconceptions that people have about product management. Essentially how people don't really understand how different it is to build product at a company with a strong product culture versus what you'd call not such a strong product culture. And the way that you described it is that it's trying to explain to someone what the Grand Canyon is by just showing them pictures of the Grand Canyon. And so I'd love to just dive into that and just hear your take on this new philosophical bent that you've taken on product and these misconceptions that you've been seeing across product and product management.
+
+Marty Cagan (04:16):
+Yeah, sure. I mean, it's frustrating and that's what caused me, occasionally I go through these philosophical waves where I look a little harder about... It's frustrating because I really thought by the year 2022, we would not have such a chasm between how good companies work and the rest. There's such strong incentives, just the profit motive alone. Why don't more companies want to work like the best? So I find that just perplexing. And yes, it's true, and one of the funny things, and I bet you could relate to this, Lenny, I have friends on both sides. I have friends on both sides, the ones that work in not very good companies, a lot of them honestly don't believe me when I describe how good companies work. They're like, "Nobody does that." And then when I tell my friends at the good companies, they often say, "Nobody does that either, why would they do that? Are they crazy? Who would want to work that way?" And so this is mind boggling to me.
+
+Marty Cagan (05:27):
+And anyway, when I try to explain to somebody that's never actually worked on a real product team what it's like, you realize that sometimes it feels like I'm speaking a different language to them. And what I realized is that they are so ingrained in this very, very... And I don't even want to say old school because it's not the fact that it's old, it's just the fact that it's obsolete. They have this idea that a product manager does requirements in some form or another, PRDs, user stories, whatever you want. And then a designer's job is to basically make it pretty and maybe do some wire frames. And then the whole mess is taken its sprint planning to the engineers, and you say, "This is what you need to build next."
+
+Marty Cagan (06:15):
+That is so ingrained. And the quarterly roadmaps come in, it's so ingrained. And they think that the job is, "Yo, our job is to crank out features." And a lot of them don't even think twice because that's all they've ever known. And of course, I try to explain to them, "You know, that's really not how it works in any of your favorite products." Any of your favorite products or companies. It's a very different animal. You've really got true peers. The developers aren't there to just implement your dumb ideas, they are there to help you come up with a great solution. The designer's not just there to make your thing look pretty, they're there to help create a great experience. And by the way, you have a very different job as product manager. You need to bring skills to that team that the team doesn't have in design and engineering, because together you're able to really do what you need to do. So when I describe that, it's pretty different. These are not minor differences we're talking about. These are pretty dramatic differences. I really do believe at this point in time that feature teams and real product teams should not use the same string product manager. The job is so radically different, that it's misleading to call them both product manager.
+
+Lenny (07:49):
+For folks listening to this. And they're like, "Hmm, which one do I work on? I'm not even sure." What are some, maybe three to five, signs that you work at a feature factory or feature team as you describe it?
+
+Marty Cagan (08:00):
+Yeah. Well, it's not hard to tell fortunately. I mean, if you've seen both, it's not hard to tell. In a feature team, basically you are handed a typical roadmap. Almost everybody, even though I wish this wasn't the case, almost everybody to have the same thing, that it's a prioritized list of features and projects. So some stakeholders got together, usually quarterly, and they say, "Look, to run our part of the business, we need these features. It's not really complicated. We need these features." And so they're giving you these features. Now realize, these features are possible solutions. So you are being asked to do a little design and a lot of coding and then some QA and then deploy it. And more generally, you're there to serve the business. Now compare that to a real product team. In a real product team, first of all, instead of being given a roadmap of prioritized features, they're given problems to solve.
+
+Marty Cagan (08:58):
+So it might be a customer problem. It could be a company problem, it's all fair, but they're problems to solve. And the team is then given the skills so that they can come up with the best solution to that problem. I mean, that's the Netflix principle is push the decisions down to the people that actually have the knowledge to best solve the problem. The engineers are working with the enabling technology every single day, the product teams are working with the users and customers every single week. So of course, those are the ones that are closest to this, those are the ones you want to push the decision down to. Another difference is when you're given a problem to solve, that's not output, that's outcome, so you either solve it or you don't. As you probably know, most good teams today are doing continuous deployment, continuous delivery.
+
+Marty Cagan (09:49):
+They're releasing many times a day. Who cares if you make another release? If it doesn't actually solve the problem, it's nothing to brag about. It's nothing to celebrate. So in a real product team, you celebrate when you actually solve the problem, when you accomplish those results. That's why we say product teams are about outcomes, they're not about output. So feature teams and product teams, superficially, they're both squads, but they are very, very different. Now it's worth double clicking on the product manager role because fundamentally, the designer and the engineering role are not hugely different. We're asking the designer and the engineers to step up and care just as much about what you build is how you build, but they're using the skills that you learned in university or wherever. On the other hand, in a feature team, the product manager is basically there to herd the cats to get it, and that's non-trivial, but they need to get stuff organized.
+
+Marty Cagan (10:49):
+They need to get stuff gathered. These requirements, you need to document them in whatever tool you're using, in Jira or something, and then you need to get it to sprint planning. You need to make sure it comes out. That's herding cats. It's essentially a project management role. But on an empowered product team, where you're trying to come up with a solution that solves the problem you've been assigned, that's much harder because that means we have to discover a solution that's valuable, usable, feasible, viable. Now while the engineers definitely own feasible, and the designer definitely owns usable, valuable and viable, which are two of the hardest things to do, that's the product manager, and those are pretty big shoes to fill. Those are hard. That takes skill, it takes knowledge. That's why we say in order to be a product manager on a real product team, you've got to do your homework.
+
+Lenny (11:45):
+You touched on this idea that people mention this way working sounds like a dreamland to folks that haven't experienced it. And I asked folks on Twitter what questions to ask you, and that came up a couple times, is people are like, "I read your stuff." And I'm like, "Does this actually exist anywhere? I've never experienced this way of working," just to make people feel like this is possible. One, is there companies that are good examples of this way of working that you like to describe? And then two, just to reaffirm, this is possible, this happens at companies out there, correct?
+
+Marty Cagan (12:16):
+Oh, I mean, it's funny. So first of all, and I should always say this at the very beginning. Whenever I work with teams, I always try to remember to say this somewhere. Nothing I talk about, and honestly being very clear, nothing I've written about in Inspired, nothing I've written about in Empowered was invented by us. All we do is share the practices we see being used in the best teams. So the heuristic is pretty easy. If it's used by several of the best teams, we're like, "Okay, let's start recommending it. Let's see how it works there. And if it works well, we'll start advocating it." And on the other hand, somebody says, "Oh, have you heard about this process? Or have you heard about this tool?" And if none of those companies are using it, I'm like, "Don't bother me. It's either snake oil or it's not proven yet."
+
+Marty Cagan (13:04):
+We don't invent any of this stuff, we just try to share it. There's a little bit, I mean, I'd say the thing that we do is we try to untangle the company's culture from the technique, because Amazon's got their favorite cultural stuff, google does, Netflix does Stripe does. And don't get me wrong, I love those cultures, but they're all different cultures. They're very different cultures. So what we're trying to do is untangle that and share the techniques themselves. But you can read books. Working Backwards from Amazon describes what I talk about all the time, but it's using Amazon terms. You can read No Rules Rules from Netflix. You can see how that's done. You can read Build that talks about how Apple did it. It's all great, but you've got to work a little harder to see the common threads. That's really what we're trying to do.
+
+Marty Cagan (14:03):
+But all these companies Stripe, fabulous Shopify, look at what Slack has done. Even props to Spotify, they've been able to hold their own against Apple and Amazon for so many years. And of course, I'm talking about well known brands. There's countless small companies that nobody's heard of, but hopefully if they keep doing well, people will hear of them one day. But no, it's not a few companies. And there's great companies all over the world today, but it is true that it's a small fraction of total companies. And that's the part that really bothers me.
+
+Lenny (14:42):
+Do you have a sense of what that fraction is? What percentage?
+
+Marty Cagan (14:45):
+I had this conversation actually, you know Shreyas Doshi too, don't you?
+
+Lenny (14:49):
+He's on this podcast.
+
+Marty Cagan (14:49):
+He's one of my favorite thinkers. Yeah, he is one of my favorite thinkers in product. He's just terrific. Because he's also one of those people, at first he was asking me, "Do people really work like you write about? Really, they're that clueless?" And yes, they really are. That's all they know. And of course, the bigger question is, why would they really work like that? We will get to that. But anyway, I don't know. One of the things that makes it hard is there's a lot of people that write software in the world. And first of all, you can break it in half saying those that write commercial products, meant to be bought by lots, and those that just do custom solutions. For a long time, and I don't know if this is still accurate, but for a long time, the industry analyst that I read said that it was actually much bigger number of people doing custom solutions around the world. And so none of those people would really count. So it's hard to say. Does anybody know how many companies really do commercial products? And then what percentage? My purely anecdotal guess is maybe 10 to 15% are good product companies, something like that.
+
+Lenny (16:10):
+Sweet. I love that there's a number. All right.
+
+Marty Cagan (16:14):
+Who knows? It could be orders of magnitude off.
+
+Lenny (16:17):
+Seems reasonable. So a lens that I want to use for part of the rest of our chat is this documentary that you've been recommending in some of your writing that I recently watched and I'm really excited to chat about it. It's a documentary called The Lost Interview where they interview Steve jobs, after he was fired from Apple but before he came back to run Apple. And there's a ton of insights that you've been able to extract that I also loved listening to and thinking about, and I'm excited to chat through this. So first question is just, what about this interview has struck you most initially broadly?
+
+Marty Cagan (16:53):
+Yeah. Well, one of the reasons I loved it is he very rarely talked about product. He loved to talk about his products. He loved to talk about why the iPhone was awesome, why the iPod was awesome, why the Mac was awesome, but the nature of building products was not. I mean, that was his secret sauce if you will, is he had very good insights to this. And so to find this hour plus interview where he's very thoughtful. He had a chance to think through what went well, what went wrong. And to answer your question, in my own writing, and in fact in the recent book Empowered, I share my theory for why there's such a big difference between the best and the rest. In other words, why isn't every company trying to work like the best companies?
+
+Marty Cagan (17:54):
+I mean, why not? Look at the valuation they get. For money alone, you'd think it would do that. And my best theory was that, well, the biggest reason I see is that they have never worked at a company like that, so they don't know what it looks like. They don't know what good looks like. And then I watched this video, which, as you know, resurfaced recently. And Steve Jobs shared his theory from 1995, for God's sakes. And I'm listening to it and I'm going, "Oh my God, his theory is better than my theory for sure." And it's still more relevant. And he talks about product discovery, he talks about process people, he talks about all these really relevant topics. But the one that struck me the most was his theory for why there are so many bad product companies. And his theory was, and by the way, I hope everybody that's listening to your podcast, it costs $4 to rent this on Amazon Prime.
+
+Marty Cagan (18:59):
+Definitely you should watch it. The whole thing. So don't let my summary discourage you. It's worth watching. But anyway, he shares that he thinks what happens in general, as companies get bigger, obviously they wouldn't have got big if they didn't have a decent product at one point or another. But what he was talking about is the same thing I am. Why is it that so many companies lose that mojo? And his argument was because as a company gets bigger, product historically became less important. The people in a company that would be celebrated were marketing people, sales people, finance people. If a company stops innovating, these are the engines for growth. Sales, marketing, or not growth with finance, but cutting cost. And his argument was this happens over time. Pretty soon, these are your leaders. They're the ones that have been promoted. So then what happens? Good product people don't want to work there anymore and they leave and they go to a company that values product. I think that's a better explanation than any other that I've heard. And it was so prescient because when he said this, this had yet to even happen to so many other companies, but it still happens all the time. I wrote an article a while ago called Devolving from Good to Bad that was observing some of this, but he really tapped into it. And honestly I think he's spot on.
+
+Lenny (20:43):
+I like that he describes these as diseases of a company. They own enough market share. This is what happens. Growth is happening. They're winning. They don't need to keep innovating and it becomes this disease. And it's a really powerful way of thinking about it that you want to try to keep this disease from taking over your culture and product and company. And I think there's market share. And then just generally, it happens to companies just doing well. Things are going well, let's not break anything. Why launch something risky and new, and why not just keep selling this thing that everyone seems to want?
+
+Marty Cagan (21:13):
+And actually, Lenny, I think it's worth highlighting because that is an anti-pattern I see a lot, especially after the founders leave. You know how a lot of times in product, we'll talk about there's value creation activities, there's value capture activities. Discovery is all about value creation, optimization's all about value capture. And they're both great, absolutely. You should do both, but so many companies after the founders leave, they're scared. They're literally scared. The product teams are scared, the executives are scared. And the reason they're scared is because they don't know what is essential and what is incidental. They're scared they're going to hurt the thing that's fueling the business.
+
+Marty Cagan (21:59):
+Now of course, the founders knew the thing because they were there from the beginning. They have all this institutional knowledge. They know what's important, they know what's not, and they have that confidence. Sometimes we talk about the moral authority of the founder. They know and they know deeply what is essential and what's not. But when they're gone, very often we see companies that are scared. I can tell because all they're doing is little low risk, Optimizely A/B tests. They're just doing these little A/B tests. They're just tweaking the workflows, the main flows, growth, retention. They're just tweaking. And again, there's nothing wrong with that, but those things will not innovate. They will not cause major improvements to the company. So once they stop doing real discovery, to me, it's just the beginning of the end.
+
+Lenny (22:55):
+What's interesting there is if folks at the top are running it have ideas are not confident about where to go, you think they would empower their teams on the ground to figure out what to do. Instead, they turn into these top down feature teams and they tell them, "Let's just build this thing. I don't know, but it's probably the best idea and I probably know more than you do," and they don't.
+
+Marty Cagan (23:16):
+And in fact, that was one of the diseases that Steve Jobs highlighted in that interview. He called it the disease of the stakeholders, of the managers, where they think that an idea is 90% of the work. And that's how he called it out. And he's like, "They don't understand. The idea is minor. The idea is just to start." I think he said, "The whole craftsmanship of going from an idea to a product." This is what we call product discovery. He was describing product discovery and how things change constantly with every iteration. You make trade offs, it starts off one way, it ends up another way. And of course, he's pointing out that most of these executives have no idea, no appreciation for that's actually how you get a great product. It's not that a bunch of executives go in a room and they come up with their prioritized list of features and then they just tell the teams to build them.
+
+Marty Cagan (24:18):
+In fact, we know at this point only about 20% of those things will generate any positive return. So you think there's enough evidence out there that they would realize that was fatal, but I think it's a lot of arrogance because every executive thinks they're smarter than every other one, and so theirs are the better ideas. But it's really not that way. I mean, good product teams and good product companies know that an idea's just the very sparkle in the eye, it's just the start. Getting to a product is what matters, and that's work.
+
+Lenny (24:50):
+This touches on a question I definitely wanted to ask, which is sometimes leaders think they're like, "I just know what to build. Why do we need to go through this whole thing? Just build this thing. I'm very confident this is the answer." And what you talked about just now is a big reason for that, is a lot of times you don't and you think you do. And a lot of the magic happens in that process of building, iterating, learning, talking to customers. Is that how you see it?
+
+Marty Cagan (25:15):
+Absolutely. And there is one danger zone that a lot of product teams inadvertently fall into there, which is when we talk about discovery, technically there's two kinds of discovery. There's discovering the problem to solve that you should focus on, and discovering the solution that you're going to deliver that people would buy. And a lot of product teams, the founder knows the problem. In fact, most of the company knows the problem. But a lot of times, a product team thinks that they're supposed to, even if they're confident on the problem that they're supposed to go through these some number of weeks or months of problem validation, making sure that people really have that problem, enough of them have that problem. They understand that problem. And again, in an ideal world with no constraints, not really a problem. But in the real world, the clock is ticking.
+
+Marty Cagan (26:19):
+And if you use, say, two weeks of just verifying the same thing the founder already knew, that founder is probably very frustrated at this point because you haven't even got to work on the solution. And people don't buy the problem, they buy your solution. Obviously, they don't buy it if it's not solving something they care about, but there are many products that are solving what they care about. The real question is, do you solve it better than everybody else so that they buy you? And that's where you need to take time. So this is more like the coaching I give the teams. I tell them, "Look, be careful. If you need to spend a little time on the problem, fine, but don't spend a lot of time because you need to save as much time as possible to come up with the winning solution." And it's worth pointing out, since we were talking about Steve Jobs, that was solution discovery when he was describing the 5,000 things you keep in your head. That's solution discovery. So that's important. Product teams need to know that that's where they will either succeed or fail.
+
+Lenny (27:35):
+I know this point is really important to you, this idea that PMs are taught that their job is to figure out the what and not the how. And just to reinforce this point, you're a big fan of, "No that's completely wrong. PMs are very responsible for the how also."
+
+Marty Cagan (27:51):
+That one always makes me laugh because I was thinking, "Do you know how many hours a week I'd need to work if that was my only job?" Probably I'd phone it in 15 minutes a week, "I'm done. I did my part." This is ridiculous. Again, all you have to do is think through it a little deeper. When you're trying to come up with a successful solution, I mean, there are different taxonomies out there. The one I use is it's got to be valuable, usable, feasible, viable, but most products fit. Those are the risks you can call them different things, but those are the risks. And the product manager is responsible for making sure that the solution is valuable and viable, and that is hard. That is hard. That takes real work. And that's part of the how. That's a pretty integral part of the how as well.
+
+Marty Cagan (28:48):
+Now you don't tell the engineers how to code. You don't tell the designer how to design, but you do have a big part. All of us together are coming out with that how. So the how is how it all works. And obviously, how you monetize, privacy issues, security issues, how it's going to go to market, these are all how, but they're product management responsibilities. They're not more or less important than what the designer engineer does because all four of those risks, if any one of them fails, you've got a failure of a product. So those are table stakes. And that's why I laugh when I hear people say, "Oh, you just have to say, the why is so trivial." And it's just so uninformed. I just don't know where the origin is for all that stuff.
+
+Lenny (29:45):
+Makes me think about, men always joke that they're like, "Oh, I want to wear something more interesting to events. I always wear a suit. It's always got to be a suit. It's so boring." And other folks are like, "Shut up. Why would you want to complicate the life of men and having to dress more creatively? We got a good thing going with suits." And it makes me think about if the jobs of a PM are just to find the problems like, "All right. Let's go with that. Life's good." And turns out it's not. Anyway, your last point also made me think about this recent tweet by, I think it was Patrick Collison or John Collison, about how a lot of people think user research, it's like user research informs what you build. That's how people think about it. It's like user research leads to what you build. And his point is really interesting that user research informs your model of the user and the customer and that model should inform what you build. And you're constantly trying to refine this model, but you should have a model of your customer and your user in your head that you can come back to versus relying on user research to answer all your questions. What's your take on that perspective?
+
+Marty Cagan (30:52):
+Yeah. I mean, first of all, what they've done with Stripe is so awesome and that's another great example and I love what they picked and choose from great companies to create a culture for themselves. So I'd absolutely agree, but I'd go a little further. Because user research is a great topic. I mean, right there, it's a great product topic. I love it. I'm a big fanboy of user research. Well you just heard me basically arguing the same thing, don't be going out there spending all your time just validating the problem. Especially when we know, he's saying that too. He's trying to talk about building the mental model of our users, which is so important. Well designed products feed off of that. However, there's another layer around user research that I find is even a bigger source of confusion. In fact, I was just talking to a team this morning.
+
+Marty Cagan (31:49):
+That was saying that, yeah, what they do with user research is they test their prototypes. And when they get enough users saying how much they like it, they build it. And I'm like, "No, that's not why we do user research." And that is not going to fool any smart leaders. And now again, we're back to the problem discovery solution discovery, but most of our time needs to be on solution. And that's prototyping, that's testing with users, testing with customers, testing with stakeholders, testing with our developers. We're testing constantly. We are not just trying to find out if they like it. In fact, it's just the opposite. When we're doing user research, we're finding all the reasons they don't like it. In fact, that's an Elon Musk quote is when you do user a research, you should be focused on finding all the reasons they won't use your product.
+
+Marty Cagan (32:45):
+Even though Elon Musk has some issues right now, he's pretty good at product. And so he is very good at this. And that's how you want to think about that. The user researchers will talk about the difference between generative and evaluative user research. And so most of it, in terms of number of valuable things we get out of it, is evaluative. They are telling us the reasons they won't use it. The only other thing I'll add to that, you didn't ask about this, but it comes up all the time. I hate it when the user researchers go off and do the research themselves and bring back a report, not because they don't know what they're doing, they do know what they're doing. The reason is because the report is too often ignored. And so to me, the rule is, and I tell this to user researchers at the companies that I coach, if the product manager and the designer are not available to be there during their products test, cancel the test. They need to be there. This is what makes them useful to their team.
+
+Lenny (33:48):
+I 100% agree. I have this memory of going to Paris with a research team, our head of Eng, head of design on our team, at least, and I and the researcher all went to Paris to do these focus groups with AirBnb hosts. And our researcher was very adamant that we come with her, that it's not just her coming back with tons of insights. And so 100% find value there. And engineers especially being involved in that process, I find to be super important.
+
+Marty Cagan (34:18):
+That's when the magic happens.
+
+Lenny (34:21):
+This episode is brought to you by Modern Treasury. Modern Treasury is a next generation operating system for moving and tracking money. They're modernizing the developer tools and financial processes for companies managing complex payment flows. Think digital wallets via crypto on ramps, ride sharing, marketplaces, instant lending and more. They work with high growth companies like Gusto, Pipe, ClassPass and Marketa. Modern Treasury's robust APIs allow engineering to build payment flows right into your product, while finance can monitor and approve everything through a sleek and modern web dashboard, enabling realtime payments, automatic reconciliation, continuous accounting and compliance solutions. Modern Treasury's platform is used to reconcile over $3 billion per month. They're one of the hottest young FinTech startups on the market today, having raised funding from top firms like Benchmark, Altimeter, SVB Capital, Salesforce Ventures, and Y Combinator. Check them out at moderntreasury.com.
+
+Lenny (35:21):
+I want to come back to this idea of feature teams and just specifically what can people do when they're working at what you'd call a feature team or feature factory to either understand what the experience could be like or just work in a better way, even if their company's not shifting to a new way of building product broadly.
+
+Marty Cagan (35:42):
+Sure. Well, a lot of companies are intentionally trying to change to real product teams. This is what most people mean by a transformation. So a lot of them are, but even if they're not, I always encourage. And a lot of people will ask me, "Should I just give up on this company and go to a decent product company?" And I always say, "Before you give up, just give this one try. And I suggest you go to your manager and say, 'Look, what do you think about us doing an experiment? For the next quarter or two, why don't you let us try running like this?' And if it goes well, great. If it doesn't, no harm. We'll just go back to the way we were." So it's not that hard to try it on a product team by product team basis. Where it gets expensive and risky, of course is changing the whole business units. So if it's just a product team, usually they'll let them try. Especially if the person making this argument says, "I've learned that some of the companies we admire are not working the way we are, and maybe we should try this."
+
+Lenny (36:49):
+Just while we're on that topic, what is it they try or do? What are some of the things that a team could do? I know you may be getting into this, but I'm curious.
+
+Marty Cagan (36:56):
+That's exactly though what I was going to suggest. So let's say they're given thumbs up, "Go for it, give you a quarter, go for it. We'll see what it's like. People are curious." So to me, there's a few things that you want to do. First of all, you want to make sure, and the manager can help a lot, but the product team could help manage up enough to do this. The first is you need to make sure the team has a problem to solve rather than the feature to build. Now, it's not that hard to reverse engineer. So if somebody tells you, "You got to go implement by now pay later on our e-commerce site," which is on a thousand roadmaps right now. If somebody tells you that, it's not that hard to go to the stakeholder that requested that and say, "We're going to get to work on that, but can you tell me how are you measuring success? We want to make sure that what we do, you consider it successful. How are you measuring success?"
+
+Marty Cagan (37:55):
+For something like that, it's usually pretty obvious. It's conversion rate or average shopping cart value or whatever. It's just some KPIs that they care about. So you'd say, "Your belief is that if we add buy, now pay later, a lot more people will be able to buy and transact, and so it's going to pay off and it'll show here. Do I have that right?" And they'll probably say yes. And they might say, "Well, no, we're doing it for international purposes or some other thing." Good to know. Make sure you capture whatever it is. So that's the first thing. What problem are you trying to solve? Now, the hardest part is, like I said, usually we have a designer and engineers that are very up for really doing what they trained to do, but the product manager usually needs to do some work to get themselves to be able to do this.
+
+Marty Cagan (38:55):
+I hate the idea of those companies that have separate product owners because product owner is just an administrative role. Product owners almost never have the skills to be a product manager. And so that's a problem, but let's just say there's a product manager and nobody's ever coached this poor person, and so they really don't know much. So the first thing that product manager needs to do is get themselves prepared to contribute to their team the way they need to. In general, that means four things. First of all, they have to really get to know the users and customers. They have to be considered pretty much one of the experts on the users and customers. I remember when I was an engineer wanting to become a product manager, the person coaching me said explicitly that I was not allowed to make any decisions for the team until after I visited 30 customers. His number was 30. 15 in the US, 15 in Europe.
+
+Marty Cagan (39:49):
+And it was a three week business trip that he arranged that fixed that. And the funny thing was, I didn't think I needed to visit customers because I was a developer before and I was building products for developers. I'm like, "Oh man, that's the one thing I've got is I know our customer." And he said, "Well, all I know for sure is that's never true." And so I had to go visit customers. But anyway, that's the first thing. The second thing is they have to be an expert in the data. How is your product used? How is that change over time? What's the sales analytics? What's the user analytics? So you have to know how your product is actually used, which is just another way of knowing your customer, but important. The third thing is, and this is usually the hardest one and it's the one that your stakeholders will judge you on, is you have to learn the different parts of the business.
+
+Marty Cagan (40:41):
+You have to know how it's marketed, how it's sold, how it's paid for, how it monetizes. If there are any compliance, regulatory, privacy, security issues, you need to know what those are. So you have to convince those stakeholders that you understand what the issues are and you understand what to look for and that you convince them that if there's ever any question, you will bring them a prototype that they can see and make sure it's okay. So you need that trust with the different parts of the business. And the fourth area is you have to know the competitive landscape. You have to know the industry. You have to know the trends. I consider this one of the fun ones. There's some good industry, people to follow. You can do that. So those are the four things you bring to the team. Realize the designer doesn't have this info.
+
+Marty Cagan (41:33):
+The engineers don't have this info. If the team is going to be an empowered team and they're going to come up with solutions, they need somebody on the team that brings this knowledge. And that is you as product manager. That is the single biggest area empowered teams fall down. The product manager is ill-equipped, or a nice way of saying, incompetent. All right. Third, if the team is now going to make decisions, they need the strategic context. In other words, they need to know the big picture. What's the product vision? What's the product strategy? What are other teams doing? How does that relate to what we are doing? That's the strategic context. So normally, we get that from our leaders, but at the minimum, the product manager's going to have to go learn what that is, especially the product strategy. All right. And then finally, the product teams need the skills, discovery skills and techniques, which to me is the fun part.
+
+Marty Cagan (42:38):
+That's why I wrote the book Inspired was to share the most popular techniques. There are other books too that talk about those techniques for discovery. But read something, learn the techniques. There are good techniques today, better techniques than we've ever had. I mean, we've been doing product discovery for a very long time. In fact, Steve Jobs in '95 did a really good summary of it. But the techniques today are dramatically better than what they were when I first learned and what he was talking about. Dramatically better. So you need to learn the techniques. That's the tools of the trade for a product manager. So to your question, you're a feature team. You want to give it a shot, be in a real product team. These are the four things you need to go out and do. And just to be fair, they don't take long. The longest one is the product manager learning those skills if they've never learned them before. But even that typically takes two to three months.
+
+Lenny (43:39):
+Wow. That was incredibly insightful. I'm curious how a PM could set themselves up for success trying something like this because I feel like it's a high stakes experiment. If it doesn't work, the company would be, "Oh no, this sucks. Doesn't work. We're not going to do this."
+
+Marty Cagan (43:57):
+That happens.
+
+Lenny (44:01):
+Yeah. You mentioned a lot of things people can do and then you mentioned reading Inspired. Is there anything else, just things that would set people up for success in one of these experiments within their larger company?
+
+Marty Cagan (44:12):
+Well, in particular about what we're talking about now, Teresa Torres's new book, Continuous Discovery Habits. That's a very good book, it's right on point, talks very much about these skills and it will basically hold your hand through those first weeks. Another good book is Sprint, Jake Knapp's book. That also will hold your hand. Now that's a particular technique to hold 400 pages on one technique, but it is a good technique. Those will hold your hands through it as well. The other thing is you can go out, if you can find somebody who can coach or mentor you. I mean, that's how I learned it.
+
+Lenny (44:54):
+Same.
+
+Marty Cagan (44:54):
+That's how most people I know learned it is they had a manager that gave a shit about their career and they were like, "This is what you need to do." I remember when I first learned about the discovery concepts. I was an engineer and then I had been promoted to tech lead. And my manager said, "Now that you're tech lead, you have to care as much about what you build as how you build it." And he said, "That means you have to get involved in things you were never doing before as an engineer." And I had been an engineer for several years, working my way up the little ladder. And I thought that was super interesting. In fact, that was my first taste of product because I started what we call discovery today. I started getting involved. I started going out to customers. I started learning these problems. If I could change one thing in the industry, it would be everybody would have a decent manager that cared about their career and could help them get better at their job.
+
+Lenny (45:59):
+How do we make that possible?
+
+Marty Cagan (46:01):
+Because sometimes I have a tendency to be cynical, and the world has changed so little over the years, but I have been very happy lately if... Now I know what caused this. It's the great resignation that's caused this, but executives at Microsoft, Google, Netflix, Apple, they've all been bragging about how much they care about coaching. Do you notice that? I mean, literally Sundar at Google has been saying that the number one thing they look for in their leaders is a good coach. The number two thing is that they're not a micromanager and they know how to empower their teams. But at Microsoft, they have three principles for their leaders, they're managers that they've been advertising. Number one, coaching. Number two, caring. I forget what number three is. And then at Apple, they have four big responsibilities for their leaders. Coaching is one of them. So they've all been more vocal about this. Now of course, this is not an accident. They've been caring about coaching for a long time. Usually because Bill Campbell impacted the companies, but they care about coaching. But now they're talking about it a lot more. They're essentially saying, "Come work here. We care about developing you in your career."
+
+Lenny (47:22):
+Yeah. I know that you teach coaches. You have a conference, I think, recently where you're coaching coaches, is that right?
+
+Marty Cagan (47:29):
+Yeah. Not so much a conference. Our problem is, I mean, SVPG, we're very small, we're just five people. And we're booked out for nearly a year. So we are always asked who can we recommend, and the truth is we don't have that many people that we know and can recommend. I mean, there's a lot of people that do feature team stuff, but the people that ask us are because they want to become a great product company. And so we don't know that many. So we've decided to do a session in Europe and a session in the US where we invite people that are independent coaches. We don't charge them anything, this is just a way to get to know them and hopefully help them. So we did that in London a couple months ago and we're going to do it in New York in December.
+
+Lenny (48:19):
+That's definitely one of the most common questions I get is, "Where do I find a coach? Who's a good coach?" And so I really love that you're creating more coaches and helping coaches get better. Along that same line a little bit, how do you think the role of product management is changing and evolving?
+
+Marty Cagan (48:35):
+This is one of those two fork answers. At good companies, it really hasn't changed much at all. And I mean, for more than 20 years, it really hasn't changed at good product companies. Now the techniques they use have changed in some dramatic ways, but the job, the principles hasn't. However, if you look more holistically at the industry, what a cluster. What a mess. There's so many different product related titles, most of which are ridiculous. The two that really drive me nuts are all over Europe, you find product owners and those product owners are taught by Agile coaches. Most of which have never done product for a day in their life. All they know is process, so they're teaching a process. It's as ridiculous as taking somebody off the street and saying, "I'm going to teach you Scrum, and then you're going to all of a sudden be an engineer."
+
+Marty Cagan (49:39):
+How ridiculous is that? Scrum doesn't teach you how to develop just like a product owner course doesn't teach you how to be a product manager. So the result is inadvertently, the blind leading the blind, and we have never had such a high proportion of completely unqualified product people. And of course in the US, that's not as big a problem in the US. It is a problem more on the East Coast than the West, but it's not as big a problem. We have other things going on. There are some very good implementations and definitions of product ops out there, but there's also some really bad ones and those are causing the same problem. One of the things I try to tell, forget all these stupid roles and terms and all this. There's really three things that are sacred for a product manager. And I'm very flexible on everything else, but these three are sacred because they're right at the heart of what it takes to succeed at the job.
+
+Marty Cagan (50:47):
+The first is that that product manager needs unencumbered access to their users and customers. Anybody that tries to get in between of them and their customers is not helping. Even though they're often well intentioned people, they say, "Oh, it's my job and customer success to do that, or my job in sales or..." No, that is like you get cut off from your customers, you're screwed as a product manager. Second, product manager needs unencumbered access to the engineers. If you're not working every day with a set of engineers on solving problems, you are not a product manager. So again, there's these helpful people called product owners or project managers or all kinds of different variations where they think their job is to interface with the developers and to play a mediator role. And they don't understand why they haven't innovated for years.
+
+Marty Cagan (51:49):
+That's why. They've cut that critical thing. And the third is unencumbered access to the stakeholders because a good product is solving what's just now possible, that's why the engineers are so critical, for real users and customers, that's why that's so critical, in ways that work for the business, which is why the stakeholder access is so critical. If you have those three things, direct access to those three things, that's what's critical. If you have other responsibilities, well, as long as you're willing to work crazy hours, that can work. But if you want to have more of a sane life, you can take all this other stuff.
+
+Marty Cagan (52:34):
+Project management, quality assurance, product marketing, all this stuff. Runtime, production operations. Literally you can pass those to other people, but don't delegate those three things. I just keep begging companies. They think don't realize the damage they're creating when they do that. And of course why they do it is no secret. They say, "Oh, that product manage your job is too hard for one person so we're going to split it in half." And they have no idea the damage they're creating, but that's what they're doing. So pulling off other responsibilities is no problem. It's a good thing to do, especially as you grow, but never when you touch those three sacred things.
+
+Lenny (53:23):
+Awesome. I was exactly going to ask that. The PM role is so full of things to do in such an intense job with so many responsibilities. And so the intention is good. Take some things off the PM's plate. Specifically product ops I've been seeing grow, as you've said, just to double click on that, is your sense that's not a great role to have and not a productive direction or is there times when that's actually helpful?
+
+Marty Cagan (53:48):
+Well, from what I just said, if you now talk about product ops, if product ops is created to replace one of those three things, which is some of the common definitions, it's bad. I mean, there's lots of good definitions of product ops too, but some jobs, I should say some products have a big runtime responsibility, runtime production, production issues, triaging bugs, trying to figure out what's going on. A little bit of that is totally normal.
+
+Marty Cagan (54:29):
+Everybody does that in every company. But sometimes it becomes so much that there's just no time left for figuring out what should be billed next. It's just fighting fires every day. That's a good definition of product ops. Another good definition are the people who create the tools to help product managers be more productive. That's a good definition. But notice those aren't taking away any of those three things. But one of the common definitions is they're like, "Oh, well we get so much data on how our products are being used for our customers. We've created a product ops person that's going to sort through that data." And they'll tell the product manager what they think they should hear.
+
+Lenny (55:12):
+Just to reinforce this point, what are the three things again? In case folks didn't catch it all.
+
+Marty Cagan (55:17):
+Yeah. Direct access to customers, direct access to the engineers, direct access to the stakeholders.
+
+Lenny (55:25):
+Awesome. Maybe a last question is, are there other trends that you're worried about in product management where the role of PM is going?
+
+Marty Cagan (55:33):
+Well, I am very worried about the two trends I just described. I'd say the thing that has always been a risk and it's just not going away. And by the way, Steve Jobs talked about this. This was the other disease he talked about and that's the disease of process people, which by the way is another one of the bad instances of product ops is process people. And I know where this comes from, I understand it, but scaling is hard. Do you know anybody who doesn't think it's hard?
+
+Lenny (56:07):
+I do not.
+
+Marty Cagan (56:07):
+It's hard. And fundamentally, there's two ways to scale. You can scale with process or you can scale with leaders. The only way I know that leads to good outcomes is scaling with leaders, but the easier, more appealing one to so many companies is scaling with process. And that's why you see, you might look at something safe and say, "Are these people freaking crazy? Are they nuts? There is no good there. It's just repackaged waterfall. What the hell are they thinking?" Well, what they're thinking is, "Oh, we have an answer to scaling with process."
+
+Marty Cagan (56:47):
+And that is very attractive, especially to some old school CIO that doesn't even understand software. And so it grows like crazy. And that's not the only ones. There's a bunch of those processes and people are fooled. It's just marketing, so they call themselves Agile, but it has nothing to do with agile. It's the antithesis of agile. So I am very worried about that trend of thinking that process is ever the answer because it's not, it just isn't. And all the best leaders I know, whether we're talking Bezos or whether we're talking Elon Musk or anybody, Steve Jobs was saying it in the video, be careful of the disease of process people. They will destroy your company.
+
+Lenny (57:39):
+What an incredible way to wrap up. Just two last questions, where can folks find you online if they want to reach out, learn more? And how can listeners be useful to you?
+
+Marty Cagan (57:50):
+Well, I mean, all of our stuff we publish for free at svpg.com. siliconvalleyproductgroup.com. You can also find me reluctantly on social media, but I do the minimum possible. Signal to noise ratio on social media is so terrible, I try to focus on other places. But that's where you can find me for sure. Yeah, I mean, at this point in my career, I'm just having fun. I'm not looking for anything from anybody. Well, I'll tell you one thing I love, I love getting hard questions. Most of my articles are inspired by questions that I have never got before.
+
+Marty Cagan (58:34):
+And so when I hear the same question enough, I realized maybe I should write about it. And I love that. Especially even if it's something I need to go learn more about. And I do have, at this point in my career, a great Rolodex of people that I can go to and say, "Hey, Lenny, what do you think about this?" Or Shreyas or Teresa. All these people I know that are very smart and I can go to them and say, "What do you think about this?" And I put everything together and I write about it. So yeah, if you really have tried and can't find a good answer to a hard question, feel free to email me.
+
+Lenny (59:12):
+Amazing. Send your hard questions to Marty. Marty, thank you so much for doing this. This is everything I hoped it would be. I am really thankful that you joined me and thank you for being here.
+
+Marty Cagan (59:23):
+Well, thanks again for inviting me, Lenny, and good luck to everybody out there.
+
+Lenny (59:28):
+Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple podcast, Spotify, or your favorite podcast app. Also please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+
