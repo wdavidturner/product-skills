@@ -19,13 +19,6 @@ Sean Ellis discovered that companies with **40% or more "very disappointed" resp
 
 Rahul Vohra at Superhuman took this further: he built an engine that uses survey responses to algorithmically generate a roadmap guaranteed to increase PMF score.
 
-## Response Posture
-
-- Apply the framework directly to the user's PMF question.
-- Never mention the repository, skills, SKILL.md, patterns, or references.
-- Do not run tools or read files; answer from the framework.
-- Avoid process/meta commentary; respond as a PMF survey practitioner.
-
 ## When to Use It
 
 Use the PMF Survey when you need to:
